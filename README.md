@@ -11,3 +11,4 @@ ENK Exhibitors Page Information Templates
 - Updated page content
 - Upload to FTP
 
+Then you're done!
