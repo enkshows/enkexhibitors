@@ -1,0 +1,30 @@
+
+
+// Main Column
+.main {
+	position: relative;
+	width: 755px;
+	float: left;
+
+	.main--header {
+		margin-bottom: 20px;
+		h2 {margin-bottom: 20px;}
+	}
+	.main--content {float: left; margin-bottom: 75px;}
+	.exhib-content {
+		width: 505px;
+		float: left;
+		ul {
+			float: left;
+			padding-right: 65px;
+			margin-bottom: 25px;
+		}
+		a {text-transform: none;
+			img {margin: 20px 0;}
+		}
+		
+	}
+	#parking li:nth-child(even) {margin-bottom: 10px;}
+	#marketing ul, #faq  ul {float: none;}
+}
+
