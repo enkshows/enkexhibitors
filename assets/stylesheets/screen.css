@@ -121,7 +121,7 @@ ol li {
 
 /* line 2, ../sass/_type.scss */
 body {
-  font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
+  font-family: "Gotham SSm 7r", "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
   line-height: 1.5;
 }
 
@@ -283,31 +283,40 @@ a:hover {
   color: white;
 }
 
-/* line 49, ../sass/_nav.scss */
+/* line 47, ../sass/_nav.scss */
+.nav-notice {
+  position: fixed;
+  top: 220px;
+  background: url("../assets/img/stripe-png.gif") repeat;
+  height: 300px;
+  width: 155px;
+}
+
+/* line 56, ../sass/_nav.scss */
 .main--nav {
   float: left;
   margin-right: 20px;
 }
-/* line 52, ../sass/_nav.scss */
+/* line 59, ../sass/_nav.scss */
 .main--nav li {
   border-top: 1px solid black;
 }
-/* line 54, ../sass/_nav.scss */
+/* line 61, ../sass/_nav.scss */
 .main--nav li a {
   display: inline-block;
   width: 230px;
   padding: 5px 0 10px 0;
   font-weight: 600;
 }
-/* line 61, ../sass/_nav.scss */
+/* line 68, ../sass/_nav.scss */
 .main--nav .nav-floor-plan {
   padding-bottom: 5px;
 }
-/* line 63, ../sass/_nav.scss */
+/* line 70, ../sass/_nav.scss */
 .main--nav .sub-nav li {
   border-top: none;
 }
-/* line 65, ../sass/_nav.scss */
+/* line 72, ../sass/_nav.scss */
 .main--nav .sub-nav li a {
   padding: 0 0 5px 10px;
   border: none;

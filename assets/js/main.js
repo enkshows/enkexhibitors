@@ -32,6 +32,42 @@ $(document).ready(function(){
 	});
 
 
+  //Image opacity 
+  $(".exhib-content img").hover(function() {
+      $(this).stop().animate({opacity: "0.6"}, 300);
+    },
+    function() {
+      $(this).stop().animate({opacity: "1"}, 300);
+    });
+
+  // Booth Dropdown
+  $(".booth-select").each(function(){
+    $(this).on('change', function(){
+      var $this = $(this);
+      var src = $(this).val();
+
+      var imgDiv = $('.image-display');
+      var imgURL = "../assets/img/booths/";
+      var img = "<img src='../assets/img/booths/" + src + "FRONTsm.jpg' alt='This is an image of a booth sized to " + src + " feet in size'>";
+      var url = "<a rel='shadowbox' title='" + src + "'" + "href='" + imgURL + src + "FRONT.jpg' >" + img + "</a>";
+      var link = "<p><a rel='shadowbox' href='" + imgURL + src + "FRONT.jpg'>" + src + "</a></p>";
+      if (src == "") {
+        imgDiv.hide();
+        $('.image-display > a').remove();
+        $('.image-display > p').text().remove();
+      } else {
+        imgDiv.hide();
+        imgDiv.find('> a, > p').remove();
+        $(url).appendTo($this.parent().find('.image-display').show());
+        $(link).appendTo($this.parent().find('.image-display').show());
+        // Init Shadowbox on each image as it's displayed
+        Shadowbox.init();
+        Shadowbox.clearCache();
+        Shadowbox.setup();
+      }
+    });
+  });
+
 	// Google Maps
 	var javitz 	= new google.maps.LatLng(40.758554,-74.002299);
 	var piers 	= new google.maps.LatLng(40.769126,-73.996312);
@@ -99,39 +135,5 @@ $(document).ready(function(){
   }
   google.maps.event.addDomListener(window, 'load', initialize);
 
-  //Image opacity 
-  $("img").hover(function() {
-      $(this).stop().animate({opacity: "0.6"}, 300);
-    },
-    function() {
-      $(this).stop().animate({opacity: "1"}, 300);
-    });
 
-  // Booth Dropdown
-  $(".booth-select").each(function(){
-    $(this).on('change', function(){
-      var $this = $(this);
-      var src = $(this).val();
-
-      var imgDiv = $('.image-display')
-      var imgURL = "../assets/img/booths/";
-      var img = "<img src='../assets/img/booths/" + src + "FRONTsm.jpg'>"
-      var url = "<a rel='shadowbox' title='" + src + "'" + "href='" + imgURL + src + "FRONT.jpg'>" + img + "</a>"
-      var link = "<p><a rel='shadowbox' href='" + imgURL + src + "FRONT.jpg'>" + src + "</a></p>";
-      if (src == "") {
-        imgDiv.hide();
-        $('.image-display > a').remove();
-        $('.image-display > p').text().remove();
-      } else {
-        imgDiv.hide();
-        imgDiv.find('> a, > p').remove();
-        $(url).appendTo($this.parent().find('.image-display').show());
-        $(link).appendTo($this.parent().find('.image-display').show());
-        // Init Shadowbox on each image as it's displayed
-        Shadowbox.init();
-        Shadowbox.clearCache();
-        Shadowbox.setup();
-      }
-    });
-  });
 });

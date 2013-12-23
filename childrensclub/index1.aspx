@@ -36,14 +36,14 @@
         <li><a href="http//www.enkshows.com">enkshows.com</a></li>
       </ul>
       <ul class="icons ">
-        <li><a class="ss-icon" href="#">Calendar</a></li>
+        <li><a class="ss-icon" href="http://www.enkshows.com/company/calendar.html">Calendar</a></li>
         <li><a class="ss-icon ss-social-regular" href="https://www.facebook.com/ENKInternational">Facebook</a></li>
         <li><a class="ss-icon ss-social-regular" href="https://twitter.com/ENKSHOWS">Twitter</a></li>
         <li><a class="ss-icon ss-social-regular" href="http://instagram.com/enkshows">Instagram</a></li>
       </ul>
     </nav>
     <nav class="nav-notice">
-      <img src="../assets/img/acic/acic-notice.gif" alt="">
+      <img src="../assets/img/cc/cc-alert.gif" alt="Notice: One day move-in on Saturday, January 11, from 8AM to 6M. UPS and Fedex packages accepted on Friday, January 10 from 8AM to 4:30PM. No Move-ins permitted on Friday, January 10.">
     </nav>
     <div class="main">
       <header class="main--header">
