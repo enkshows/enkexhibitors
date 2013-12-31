@@ -63,7 +63,7 @@
             <li><a href="#floor-plan">Floor Plans</a>
               <ul class="sub-nav">
                 <li><a href="#floor-plan">3D Map</a></li>
-                <li><a href="../assets/pdf/acic/acic-exhibitormap.pdf" target="_blank">Detailed Floorplan</a></li>
+                <li><a href="../assets/pdf/cc/cc-exhibitormap.pdf" target="_blank">Detailed Floorplan</a></li>
               </ul>
             </li> 
             <li><a href="#contacts">Contacts</a></li>
@@ -146,6 +146,7 @@
         </div>
         <div class="exhib-content" id="badges">
           <h3>Exhibitor Badges</h3>
+          <a class="info-link" href="http://www.enkexhibitors.com/landing.aspx">Visit the Exhibitors Badges page</a>
           <p>Your personalized user name and password was sent to you from ENK so that you may order your badges in advance online. If you have not received the link please contact 
           <a href="mailto:operations@enkshows.com">operations@enkshows.com</a>.</p>
         </div>
@@ -230,7 +231,7 @@
         </div>
         <div class="exhib-content" id="hotel-travel">
           <h3>Hotel + Travel</h3>
-          <p>ENK, together with our travel partner <a target="_blank" href="http://www2.quikbook.com/event/enkcclub-jan.asp?incentivecode=ENKCCLUBEXH&utm_source=ENKCCLUB&utm_medium=site&utm_content=ENKCCLUBEXH&utm_campaign=qbprivatelabelsite">Travel Planners</a>, has negotiated discounted rates at many NYC hotels. Please visit the <a target="_blank" href="http://www2.quikbook.com/event/enkcclub-jan.asp?incentivecode=ENKCCLUBEXH&utm_source=ENKCCLUB&utm_medium=site&utm_content=ENKCCLUBEXH&utm_campaign=qbprivatelabelsite">Travel Planners website</a>  to make reservations or call 800.789.9887 (from the US, Canada &amp; Caribbean) or 212.779.7666.</p>
+          <p>ENK, together with our travel partner <a target="_blank" href="#">Travel Planners</a>, has negotiated discounted rates at many NYC hotels. Please visit the <a target="_blank" href="#">Travel Planners website</a>  to make reservations or call 800.789.9887 (from the US, Canada &amp; Caribbean) or 212.779.7666.</p>
         </div>
         <div class="exhib-content" id="parking">
           <h3>Parking</h3>
@@ -239,14 +240,24 @@
           <ul>
             <li class="content-notice">Rapid Park</li>
             <li>West 55th Street between 9th & 10th Avenues, 7 days/wk, 6am-1am, Cash/Credit Card (no trucks or SUV's)</li>
+          </ul>
+          <ul>
             <li class="content-notice">GMC Parking</li>
             <li>56th Street between 11th and 12th Avenues</li>
+          </ul>
+          <ul>
             <li class="content-notice">57th Street Garage</li>
             <li>57th Street between 11th & 12th Avenues, 24-hrs, 7days/wk, Cash only</li>
+          </ul>
+          <ul>
             <li class="content-notice">Central Parking</li>
             <li>57th Street at 11th Avenue, 24-hours, 7 days/wk, Cash and Credit Card</li>
+          </ul>
+          <ul>
             <li class="content-notice">Park n Ride</li>
             <li>60th Street between 11th & 12th Avenues, 24-hours, 7 days/wk, Cash/Credit Card</li>
+          </ul>
+          <ul>
             <li class="content-notice">Concerto Garage</li>
             <li>59th Street between 10th & 11th Avenues, 24-hours, 7 days/wk, Cash only</li>
           </ul>
@@ -452,12 +463,14 @@
         </div>
         <div class="exhib-content" id="booth-diagrams">
           <h3>Booth Diagrams</h3>
+          <a class="download" href="../assets/pdf/cc/cc-jan2014-booth-details.pdf" target="_blank">Download booth information here</a>
           <div class="booth-display">
             <h4>5' Deep Booths</h4>
             <select name="booth-diagrams" class="booth-select" id="booth-select">
               <option value="">-- Select Booth Size</option>
               <option value="5X16">5X16</option>
               <option value="5X20">5X20</option>
+              <option value="5X30">5X30</option>
             </select>
             <div class="image-display"></div>
           </div>

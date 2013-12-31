@@ -69,7 +69,7 @@ $(document).ready(function(){
   });
 
 	// Google Maps
-	var javitz 	= new google.maps.LatLng(40.758554,-74.002299);
+	var javits 	= new google.maps.LatLng(40.758554,-74.002299);
 	var piers 	= new google.maps.LatLng(40.769126,-73.996312);
 	var pier92 	= new google.maps.LatLng(40.768809,-73.997245);
 	var pier94 	= new google.maps.LatLng(40.76976,-73.996666);
@@ -127,9 +127,9 @@ $(document).ready(function(){
   } else if (gMap.data('location') == 'pier94') {
 		myLatLng 	= pier94;
   	mapCenter = pier94;
-  } else if (gMap.data('location') == 'javitz') {
-		myLatLng 	= javitz;
-  	mapCenter = javitz;
+  } else if (gMap.data('location') == 'javits') {
+		myLatLng 	= javits;
+  	mapCenter = javits;
   } else {
   	gMap.hide();
   }

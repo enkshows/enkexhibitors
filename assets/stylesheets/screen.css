@@ -285,7 +285,7 @@ a:hover {
 
 /* line 47, ../sass/_nav.scss */
 .nav-notice {
-  position: fixed;
+  position: absolute;
   top: 220px;
   background: url("../assets/img/stripe-png.gif") repeat;
   height: 300px;
@@ -350,7 +350,7 @@ a:hover {
 /* line 17, ../sass/_main.scss */
 .main .exhib-content ul {
   float: left;
-  padding-right: 65px;
+  padding-right: 55px;
   margin-bottom: 25px;
 }
 /* line 22, ../sass/_main.scss */
@@ -361,13 +361,17 @@ a:hover {
 .main .exhib-content a img {
   margin: 20px 0;
 }
-/* line 27, ../sass/_main.scss */
-.main #parking li:nth-child(even) {
-  margin-bottom: 10px;
-}
-/* line 28, ../sass/_main.scss */
-.main #marketing ul, .main #faq ul {
+/* line 29, ../sass/_main.scss */
+.main #parking ul,
+.main #marketing ul,
+.main #faq ul {
   float: none;
+}
+/* line 32, ../sass/_main.scss */
+.main #badges .info-link,
+.main #booth-diagrams .download {
+  display: inline-block;
+  margin: 0 0 25px;
 }
 
 /* line 1, ../sass/_faq.scss */

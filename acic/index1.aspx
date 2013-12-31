@@ -16,7 +16,6 @@
   <link rel="stylesheet" href="../assets/stylesheets/webfonts/ss-standard.css" />
   <link rel="stylesheet" href="../assets/stylesheets/shadowbox.css">
 
-
   <script src="../assets/js/vendor/modernizr.js"></script>
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
   
@@ -74,7 +73,7 @@
             <li><a href="#parking">Parking</a></li>
             <li><a href="#shows">Show Sites</a></li>
             <li><a href="#faq">Common Questions</a></li>
-            <li><a href="#booth-diagrams">Booth Diagrams</a></li>
+            <li><a href="#booth-diagrams">Booth Diagrams &amp; Dimensions</a></li>
           </ul>
         </div>
         <div class="exhib-content" id="show-hours">
@@ -85,7 +84,7 @@
           </ul>
           <ul>
             <li class="content-notice">Pier 94</li>
-            <li><address>711 12th Avenue<br>New York City, NY 10019</address></li>
+            <li><address>755 12th Avenue<br>New York City, NY 10019</address></li>
           </ul>
           <ul>
             <li class="content-notice">Hours</li>
@@ -151,6 +150,7 @@
         </div>
         <div class="exhib-content" id="badges">
           <h3>Exhibitor Badges</h3>
+          <a class="info-link" href="http://www.enkexhibitors.com/landing.aspx">Visit the Exhibitors Badges page</a>
           <p>Your personalized user name and password was sent to you from ENK so that you may order your badges in advance online. If you have not received the link please contact <a href="mailto:operations@enkshows.com">operations@enkshows.com</a>.</p>
         </div>
         <div class="exhib-content" id="moving">
@@ -244,14 +244,24 @@
           <ul>
             <li class="content-notice">Rapid Park</li>
             <li>West 55th Street between 9th & 10th Avenues, 7 days/wk, 6am-1am, Cash/Credit Card (no trucks or SUV's)</li>
+          </ul>
+          <ul>
             <li class="content-notice">GMC Parking</li>
             <li>56th Street between 11th and 12th Avenues</li>
+          </ul>
+          <ul>
             <li class="content-notice">57th Street Garage</li>
             <li>57th Street between 11th & 12th Avenues, 24-hrs, 7days/wk, Cash only</li>
+          </ul>
+          <ul>
             <li class="content-notice">Central Parking</li>
             <li>57th Street at 11th Avenue, 24-hours, 7 days/wk, Cash and Credit Card</li>
+          </ul>
+          <ul>
             <li class="content-notice">Park n Ride</li>
             <li>60th Street between 11th & 12th Avenues, 24-hours, 7 days/wk, Cash/Credit Card</li>
+          </ul>
+          <ul>
             <li class="content-notice">Concerto Garage</li>
             <li>59th Street between 10th & 11th Avenues, 24-hours, 7 days/wk, Cash only</li>
           </ul>
@@ -459,6 +469,7 @@
         </div>
         <div class="exhib-content" id="booth-diagrams">
           <h3>Booth Diagrams</h3>
+          <a class="download" href="../assets/pdf/acic/acic-jan2014-booth-details.pdf" target="_blank">Download booth information here</a>
           <div class="booth-display">
             <h4>6' Deep Booths</h4>
             <select name="booth-diagrams" class="booth-select" id="booth-select">
