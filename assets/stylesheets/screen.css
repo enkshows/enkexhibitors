@@ -119,6 +119,15 @@ ol li {
   margin-left: 20px;
 }
 
+/* line 33, ../sass/_global.scss */
+.alert {
+  color: #ee1c24;
+}
+/* line 35, ../sass/_global.scss */
+.alert:hover {
+  color: black;
+}
+
 /* line 2, ../sass/_type.scss */
 body {
   font-family: "Gotham SSm 7r", "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;

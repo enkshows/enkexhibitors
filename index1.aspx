@@ -55,6 +55,10 @@
           <h2>Children's Club</h2>
           <p>January 12.13.14 @ Piers 92.NYC</p>
         </a>
+        <a class="btn btn-exhib" href="coterie/index1.aspx">
+          <h2>Coterie.Sole.TMRW</h2>
+          <p>February 23.24.25 @ Javits Center.NYC</p>
+        </a>
     </div>
   </div>
   <div class="footer">

@@ -45,12 +45,14 @@ $(document).ready(function(){
     $(this).on('change', function(){
       var $this = $(this);
       var src = $(this).val();
+      var  shortLink = src.replace("LV","");
 
       var imgDiv = $('.image-display');
       var imgURL = "../assets/img/booths/";
-      var img = "<img src='../assets/img/booths/" + src + "FRONTsm.jpg' alt='This is an image of a booth sized to " + src + " feet in size'>";
-      var url = "<a rel='shadowbox' title='" + src + "'" + "href='" + imgURL + src + "FRONT.jpg' >" + img + "</a>";
-      var link = "<p><a rel='shadowbox' href='" + imgURL + src + "FRONT.jpg'>" + src + "</a></p>";
+      var img = "<img src='../assets/img/booths/" + src + "sm.jpg' alt='This is an image of a booth sized to " + src + " feet in size'>";
+      var url = "<a rel='shadowbox' title='" + src + "'" + "href='" + imgURL + src + ".jpg' >" + img + "</a>";
+      var link = "<p><a rel='shadowbox' href='" + imgURL + src + ".jpg'>" + shortLink + "</a></p>";
+     
       if (src == "") {
         imgDiv.hide();
         $('.image-display > a').remove();
@@ -64,6 +66,7 @@ $(document).ready(function(){
         Shadowbox.init();
         Shadowbox.clearCache();
         Shadowbox.setup();
+        
       }
     });
   });
