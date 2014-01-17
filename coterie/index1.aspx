@@ -256,7 +256,7 @@
             <li>Up to 10 hrs - $12</li>
             <li>Up to 12 hrs - $20</li>
             <li>Up to 24 hrs - $45</li>
-            <li><a class="content-notice alert" href="https://www.mpsparking.com/print-specialcoupon.php?id=23">See featured Parking Coupon</a></li>
+            <li><a class="content-notice alert" href="https://www.mpsparking.com/print-specialcoupon.php?id=39">See featured Parking Coupon</a></li>
           </ul>
           <h3>Javits Parking</h3>
           <ul>
