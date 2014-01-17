@@ -69,11 +69,12 @@
 	.sub-nav {
 		li {
 			border-top: none;
-			a {
+		}
+		a {
 				padding: 0 0 5px 10px;
 				border: none;
 				font-size: 10px;
 			}
-		}
 	}
+	.sub-nav-second a {padding-left: 20px;}
 }

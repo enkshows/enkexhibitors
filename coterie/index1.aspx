@@ -18,9 +18,6 @@
 
   <script src="../assets/js/vendor/modernizr.js"></script>
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-  
-
-
 </head>
 <body>
 <!--[if lt IE 7]>
@@ -63,7 +60,13 @@
             <li><a href="#floor-plan">Floor Plans</a>
               <ul class="sub-nav">
                 <li><a href="#floor-plan">3D Map</a></li>
-                <li><a href="../assets/pdf/fc/fc-exhibitormap.pdf" target="_blank">Detailed Floorplan</a></li>
+                <li><a href="../assets/pdf/fc/fc-exhibitor_map.pdf" target="_blank">Detailed Floorplans</a>
+                </li>
+                <ul class="sub-nav-second">
+                  <li><a href="../assets/pdf/fc/fc-exhibitor_map_lv4.pdf">Level 4 (100 - 899)</a></li>
+                  <li><a href="../assets/pdf/fc/fc-exhibitor_map_lv3.pdf">Level 3 (1500 - 8099)</a></li>
+                  <li><a href="../assets/pdf/fc/fc-exhibitor_map_lv1.pdf">Level 1 (9300 - 11699)</a></li>
+                </ul>
               </ul>
             </li> 
             <li><a href="#contacts">Contacts</a></li>
@@ -170,8 +173,17 @@
           <h3>Floor Plans</h3>
           <p>To view and/or download a detailed floor plan, click on the desired venue or venue level from the image. Detailed floor plans are typically available 4-6 weeks prior to the Show opening.</p>
           <h4>Javits Center</h4>
-          <a class="map-image" href="../assets/pdf/fc/fc-exhibitor_map.pdf">
-            <img src="../assets/img/fc/javits.png">
+          <a class="map-image" href="fc-exhibitor_map_lv4.pdf">
+            <img src="../assets/img/fc/javits-level4.png">
+          </a>
+          <a class="map-image" href="../assets/pdf/fc/fc-exhibitor_map_lv3.pdf">
+            <img src="../assets/img/fc/javits-level4.png">
+          </a>
+          <a class="map-image" href="../assets/pdf/fc/fc-exhibitor_map_lv2.pdf">
+            <img src="../assets/img/fc/javits-level2.png">
+          </a>
+          <a class="map-image" href="../assets/pdf/fc/fc-exhibitor_map_lv1.pdf">
+            <img src="../assets/img/fc/javits-level1.png">
           </a>
         </div>
         <div class="exhib-content contacts" id="contacts">
@@ -256,7 +268,7 @@
             <li>Up to 10 hrs - $12</li>
             <li>Up to 12 hrs - $20</li>
             <li>Up to 24 hrs - $45</li>
-            <li><a class="content-notice alert" href="https://www.mpsparking.com/print-specialcoupon.php?id=39">See featured Parking Coupon</a></li>
+            <li><a class="content-notice alert" href="https://www.mpsparking.com/print-specialcoupon.php?id=39" target="_blank">See featured Parking Coupon</a></li>
           </ul>
           <h3>Javits Parking</h3>
           <ul>

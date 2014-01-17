@@ -51,7 +51,7 @@ $(document).ready(function(){
       var imgURL = "../assets/img/booths/";
       var img = "<img src='../assets/img/booths/" + src + "sm.jpg' alt='This is an image of a booth sized to " + src + " feet in size'>";
       var url = "<a rel='shadowbox' title='" + src + "'" + "href='" + imgURL + src + ".jpg' >" + img + "</a>";
-      var link = "<p><a rel='shadowbox' href='" + imgURL + src + ".jpg'>" + shortLink + "</a></p>";
+      var link = "<p><a rel='shadowbox' href='" + imgURL + src + ".jpg'>" + shortLink +"</a></p>";
      
       if (src == "") {
         imgDiv.hide();
