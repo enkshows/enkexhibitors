@@ -76,6 +76,7 @@ $(document).ready(function(){
 	var piers 	= new google.maps.LatLng(40.769126,-73.996312);
 	var pier92 	= new google.maps.LatLng(40.768809,-73.997245);
 	var pier94 	= new google.maps.LatLng(40.76976,-73.996666);
+  var vegas   = new google.maps.LatLng(36.086668,-115.172986);
 	var myLatLng;
   var marker;
   var mapCenter;
@@ -133,6 +134,9 @@ $(document).ready(function(){
   } else if (gMap.data('location') == 'javits') {
 		myLatLng 	= javits;
   	mapCenter = javits;
+  } else if (gMap.data('location') == 'vegas'){
+    myLatLng  = vegas;
+    mapCenter = vegas;
   } else {
   	gMap.hide();
   }
