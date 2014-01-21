@@ -77,6 +77,7 @@
             <li><a href="#shows">Show Sites</a></li>
             <li><a href="#faq">Common Questions</a></li>
             <li><a href="#booth-diagrams">Booth Diagrams &amp; Dimensions</a></li>
+            <li><a href="#temp-help">Temporary Help for Hire</a></li>
           </ul>
         </div>
         <div class="exhib-content" id="show-hours">
@@ -544,6 +545,44 @@
             </select>
             <div class="image-display"></div>
           </div>
+        </div>
+        <div class="exhib-content" id="temp-help">
+          <h3>Temporary Help For Hire</h3>
+          <p>In an effort to help make your ENK trade show experience the best it can be, ENK has partnered up with LIM and Berkeley Colleges To help you out source temporary help for trade shows and office assistance. These New York City-based students are professional, chic, energetic, fashion-conscious, detail oriented and prepared to help you with tasks like:</p>
+          <ul class="temp-tasks">
+            <li>Pre-show showroom assistance</li>
+            <li>Unpacking product cases and boxes</li>
+            <li>Pricing/labeling product</li>
+            <li>Steaming garments</li>
+            <li>Organizing product in your booth</li>
+            <li>Dressing mannequins</li>
+            <li>Assisting in decorating your booth</li>
+            <li>Sales assistance (for those who have sales experience)</li>
+            <li>Booth break-down</li>
+          </ul>
+          <p class="content-notice">**Pay is suggested at $10/hr but is negotiable. If you are interested kindly contact:</p>
+          <ul class="temp-contact">
+            <li class="content-notice">LIM College Contact:</li>
+            <li>Todd C. Lotcpeich</li>
+            <li>Recruiting Coordinator</li>
+            <li>LIM College - Where Business Meets Fashion</li>
+            <li>216 East 45th Street, 8th Floor</li>
+            <li>New York City, NY 10022-4854</li>
+            <li>T: 646.218.7738</li>
+            <li>E: <a href="mailto:todd.lotcpeich@limcollege.edu">todd.lotcpeich@limcollege.edu</a></li>
+            <li><a href="http://www.limcollege.edu">www.limcollege.edu</a></li>
+          </ul>
+          <ul class="temp-contact">
+            <li class="content-notice">Berkeley College Contact:</li>
+            <li>Jasmine Briggs</li>
+            <li>Career Counselor</li>
+            <li>Berkeley College</li>
+            <li>3 East 43rd Street</li>
+            <li>New York City, NY 10017</li>
+            <li>T: 212.986.4343</li>
+            <li>E: <a href="mailto:jsb@berkeleycollege.edu">jsb@berkeleycollege.edu</a></li>
+            <li><a href="http://www.berkekeycollege.edu">www.berkekeycollege.edu</a></li>
+          </ul>
         </div>
       </div>
     </div>
