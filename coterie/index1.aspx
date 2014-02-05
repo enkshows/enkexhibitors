@@ -178,7 +178,7 @@
             <img src="../assets/img/fc/javits-level4.png">
           </a>
           <a class="map-image" href="../assets/pdf/fc/fc-exhibitor_map_lv3.pdf">
-            <img src="../assets/img/fc/javits-level4.png">
+            <img src="../assets/img/fc/javits-level3.png">
           </a>
           <a class="map-image" href="../assets/pdf/fc/fc-exhibitor_map_lv2.pdf">
             <img src="../assets/img/fc/javits-level2.png">
@@ -548,7 +548,7 @@
         </div>
         <div class="exhib-content" id="temp-help">
           <h3>Temporary Help For Hire</h3>
-          <p>In an effort to help make your ENK trade show experience the best it can be, ENK has partnered up with LIM and Berkeley Colleges To help you out source temporary help for trade shows and office assistance. These New York City-based students are professional, chic, energetic, fashion-conscious, detail oriented and prepared to help you with tasks like:</p>
+          <p>In an effort to help make your ENK trade show experience the best it can be, ENK has partnered up with LIM and Berkeley Colleges to help you out source temporary help for trade shows and office assistance. These New York City-based students are professional, chic, energetic, fashion-conscious, detail oriented and prepared to help you with tasks like:</p>
           <ul class="temp-tasks">
             <li>Pre-show showroom assistance</li>
             <li>Unpacking product cases and boxes</li>

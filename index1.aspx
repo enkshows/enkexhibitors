@@ -46,15 +46,7 @@
         <h2>Select a show below</h2>
         <p>This page is intended for EXHIBITORS only. To begin, select a show from the list below and more information will appear. If you are looking for the regular ENK home page, please visit <a href="http://www.enkshows.com">www.enkshows.com</a></p>
       </header>
-      <div class="main--content"></div>
-        <a class="btn btn-exhib" href="acic/index1.aspx">
-          <h2>Circuit.Intermezzo</h2>
-          <p>January 6.7.8 @ Piers 92/94.NYC</p>
-        </a>
-        <a class="btn btn-exhib" href="childrensclub/index1.aspx">
-          <h2>Children's Club</h2>
-          <p>January 12.13.14 @ Piers 92.NYC</p>
-        </a>
+      <div class="main--content">
         <a class="btn btn-exhib" href="enkvegas">
           <h2>ENK Vegas</h2>
           <p>February 18.19.20 @ Mandalay Bay.LV</p>
@@ -63,7 +55,7 @@
           <h2>Coterie.Sole.TMRW</h2>
           <p>February 23.24.25 @ Javits Center.NYC</p>
         </a>
-        
+      </div>
     </div>
   </div>
   <div class="footer">

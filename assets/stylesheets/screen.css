@@ -123,8 +123,13 @@ ol li {
 .alert {
   color: #ee1c24;
 }
-/* line 35, ../sass/_global.scss */
-.alert:hover {
+
+/* line 36, ../sass/_global.scss */
+.alert-link {
+  color: #ee1c24;
+}
+/* line 38, ../sass/_global.scss */
+.alert-link:hover {
   color: black;
 }
 

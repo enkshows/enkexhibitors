@@ -32,5 +32,8 @@ ol li { list-style-type: decimal; margin-left: 20px;}
 
 .alert {
   color: $enk-red;
+}
+.alert-link {
+  color: $enk-red;
   &:hover {color: $enk-black;}
 }
