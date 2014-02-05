@@ -423,8 +423,8 @@
             </p>
             <ul >
               <li>Shipment will only be accepted during official move-in days/times</li>
-              <li class="alert">January 3, 8:00AM-4:30PM</li>
-              <li class="alert">January 5, 8:00AM-4:30PM</li>
+              <li class="alert">March 7, 12:00PM-4:30PM</li>
+              <li class="alert">March 8, 8:00AM-4:30PM</li>
             </ul>
             <p ><br></p>
             <!-- Question 5 -->
