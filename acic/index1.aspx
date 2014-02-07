@@ -503,6 +503,7 @@
               <option value="10X33">10X33</option>
               <option value="10X36">10X36</option>
               <option value="10X40">10X40</option>
+              <option value="10X46">10X46</option>
             </select>
             <div class="image-display"></div>
           </div>

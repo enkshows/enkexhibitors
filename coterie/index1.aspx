@@ -526,6 +526,17 @@
               <option value="10X33">10X33</option>
               <option value="10X36">10X36</option>
               <option value="10X40">10X40</option>
+              <option value="10X46">10X46</option>
+            </select>
+            <div class="image-display"></div>
+          </div>
+          <div class="booth-display">
+            <h4>13' Deep Booths</h4>
+            <select name="booth-diagrams" class="booth-select" id="booth-select">
+              <option value="">-- Select Booth Size</option>
+              <option value="13X13">13X13</option>
+              <option value="13X16">13X16</option>
+              <option value="13X20">13X20</option>
             </select>
             <div class="image-display"></div>
           </div>

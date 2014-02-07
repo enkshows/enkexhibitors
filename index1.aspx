@@ -55,6 +55,10 @@
           <h2>Coterie.Sole.TMRW</h2>
           <p>February 23.24.25 @ Javits Center.NYC</p>
         </a>
+         <a class="btn btn-exhib" href="childrensclub/index1.aspx">
+          <h2>Children's Club</h2>
+          <p>March 9.10.11 @ Javits Center.NYC</p>
+        </a>
       </div>
     </div>
   </div>

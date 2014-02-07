@@ -42,9 +42,6 @@
         <li><a class="ss-icon ss-social-regular" href="http://instagram.com/enkshows">Instagram</a></li>
       </ul>
     </nav>
-    <nav class="nav-notice">
-      <img src="../assets/img/cc/cc-alert.gif" alt="Notice: One day move-in on Saturday, January 11, from 8AM to 6M. UPS and Fedex packages accepted on Friday, January 10 from 8AM to 4:30PM. No Move-ins permitted on Friday, January 10.">
-    </nav>
     <div class="main">
       <header class="main--header">
         <h1>Exhibitor Information</h1>
@@ -63,7 +60,7 @@
             <li><a href="#floor-plan">Floor Plans</a>
               <ul class="sub-nav">
                 <li><a href="#floor-plan">3D Map</a></li>
-                <li><a href="../assets/pdf/cc/cc-exhibitormap.pdf" target="_blank">Detailed Floorplan</a></li>
+                <li><a href="../assets/pdf/gen/exhibitor_map.pdf" target="_blank">Detailed Floorplan</a></li>
               </ul>
             </li> 
             <li><a href="#contacts">Contacts</a></li>
@@ -79,70 +76,72 @@
         <div class="exhib-content" id="show-hours">
           <h3>Show Hours / Venue</h3>
           <ul>
-            <li class="content-notice">Pier 92</li>
-            <li><address>711 12th Avenue<br>New York City, NY 10019</address></li>
+            <li class="content-notice">Javits Center</li>
+            <li><address>655 West 34th Street<br>(34-39 Street @ 11 Avenue)<br>New York City, NY 10001</address></li>
           </ul>
           <ul>
             <li class="content-notice">Hours</li>
-            <li>Sunday, January 12 / 9am-6pm</li>
-            <li>Monday, January 13 / 9am-6pm</li>
-            <li>Tuesday, January 14 / 9am-5pm</li>
+            <li>Sunday, March 9 / 9AM-6PM</li>
+            <li>Monday, March 10 / 9AM-6PM</li>
+            <li>Tuesday, March 11 / 9AM-5PM</li>
           </ul>
-          <div id="map-canvas" style="width: 550px; height: 300px;" data-location="pier92"></div>
+          <div id="map-canvas" style="width: 550px; height: 300px;" data-location="javits"></div>
         </div>
         <div class="exhib-content" id="order-form">
           <h3>Online Order Form</h3>
-          <a href="http://enkforms.com/expressform/cc_jan2014/">Access the online order form here</a>
+          <a href="http://www.enkforms.com/expressform/cc_mar2014">Access the online order form here</a>
         </div>
         <div class="exhib-content" id="guidebook">
           <h3>Exhibitor Guidebook</h3>
           <div class="guide-exhib-l">
             <h4 class="content-notice">Move-In</h4>
-            <p>Saturday, January 11, 8AM-6PM</p>
+            <ul>
+              <li>Friday, March 7 12PM-6PM</li>
+              <li>Saturday, March 8 8AM-6PM</li>
+            </ul>
 
             <p>*Freight handling assistants are available on a first-come/serve basis until 5:00pm ONLY; and all vehicles that need assistance unloading or use of the loading dock must arrive by 4:30pm. No freight may be moved in after 5pm either hand-carry or otherwise.</p>
             <h4>Booth Package Deadlines</h4>
-            <p>Please note that if you do not complete and submit the <a href="http://enkforms.com/expressform/cc_jan2014/">Online Order Form</a> by the December 27 deadline, you will receive the frame-work, hard-walls and lighting ONLY. You will NOT receive Furnishings. Please be sure to complete the <a href="http://enkforms.com/expressform/cc_jan2014/">Online Order Form</a> by the December 27 deadline date to receive the furnishings you require.</p>
+            <p>Please note that if you do not complete and submit the <a href="http://www.enkforms.com/expressform/cc_mar2014">Online Order Form</a> by the February 20 deadline, you will receive the frame-work, hard-walls and lighting ONLY. You will NOT receive Furnishings. Please be sure to complete the <a href="http://www.enkforms.com/expressform/cc_mar2014">Online Order Form</a> by the February 20 deadline date to receive the furnishings you require.</p>
             <h4>Advance Deadlines</h4>
             <p>To take advantage of the advance order price structure, submit your forms by the deadline dates indicated on each form.</p>
           </div>
           <div class="guide-exhib-r">
-            <a class="content-notice" href="../assets/pdf/cc/cc-jan2014-guidebook.pdf" target="_blank">Complete Exhibitor Manual</a>
+            <a class="content-notice" href="../assets/pdf/cc/cc-mar2014-guidebook.pdf" target="_blank">Complete Exhibitor Manual</a>
             <ul>
-              <li><span>2</span>Important Notes</li>
-              <li><span>3</span>Custom Booths</li>
-              <li><span>4</span>Freight Delivery Form</li>
-              <li><span>5</span>Exhibition Schedule</li>
-              <li><span>6</span>Late Move-in Maps</li>
-              <li><span>7</span>Supplier Resource Directory</li>
-              <li><span>9</span>General Information</li>
-              <li><span>11</span>Booth Set-Up</li>
-              <li><span>13</span>Work Rules</li>
-              <li><span>14</span>Fire Department and Safety Regulations</li>
-              <li><span>15</span>Security Information</li>
-              <li><span>16</span>Shipping Addresses</li>
-              <li><span>17</span>Map of Freight Unloading/Loading Areas</li>
-              <li><span>18</span>Shipping Information</li>
-              <li><span>19</span>Shipping to the Exhibition</li>
-              <li><span>20</span>Advance Shipping GES' Warehouse</li>
-              <li><span>21</span>Shipping from the Exhibition</li>
-              <li><span>23</span>Transportation and Hotel</li>
-              <li><span>24</span>Contractual Regulations</li>
-              <li><span>26</span>GES Payment Policies</li>
-              <li><span>27</span>GES Terms &amp; Conditions</li>
-              <li><span>29</span>Material Handling</li>
-              <li><span>30</span>GES Inbound/Outbound Shipping Order Form</li>
-              <li><span>32</span>Shipping Labels</li>
-              <li><span>33</span>Bill of Lading Samples</li>
-              <li><span>35</span>Exhibitor- Appointed Contractor</li>
-              <li><span>37</span>Booth Dimensions and Package Detail</li>
-              <li><span>38</span>Online Order Form Information</li>
+              <li><span>1</span>Important Notes</li>
+              <li><span>2</span>Custom Booths</li>
+              <li><span>3</span>Freight Delivery Form</li>
+              <li><span>4</span>Exhibition Schedule</li>
+              <li><span>5</span>Late Move-in Maps</li>
+              <li><span>6</span>Supplier Resource Directory</li>
+              <li><span>8</span>General Information</li>
+              <li><span>10</span>Booth Set-Up</li>
+              <li><span>12</span>Work Rules</li>
+              <li><span>13</span>Fire Department &amp; Safety Regulations</li>
+              <li><span>14</span>Security Information</li>
+              <li><span>15</span>Shipping Addresses</li>
+              <li><span>16</span>Map of Unloading/Loading Areas</li>
+              <li><span>17</span>Shipping Information</li>
+              <li><span>18</span>Shipping to the Exhibition</li>
+              <li><span>19</span>Advance Shipping GES’ Warehouse</li>
+              <li><span>20</span>Shipping from the Exhibition</li>
+              <li><span>22</span>Transportation and Hotel</li>
+              <li><span>23</span>Contractual Regulations</li>
+              <li><span>25</span>GES Payment Policies</li>
+              <li><span>26</span>GES Terms &amp; Conditions</li>
+              <li><span>28</span>Material Handling</li>
+              <li><span>29</span>GES Inbound/Outbound Shipping Order Form</li>
+              <li><span>31</span>Shipping Labels</li>
+              <li><span>32</span>Bill of Lading Samples</li>
+              <li><span>33</span>Exhibitor- Appointed Contractor</li>
+              <li><span>35</span>Booth Dimensions and Package Details</li>
             </ul>
           </div>
         </div>
         <div class="exhib-content" id="furnishings">
           <h3>Booth Furnishings</h3>
-          <a href="../assets/pdf/cc/cc-jan2014-booth-package.pdf" target="_blank">Download booth furnishings PDF here</a>
+          <a href="../assets/pdf/cc/cc-mar2014-booth-package.pdf" target="_blank">Download booth furnishings PDF here</a>
         </div>
         <div class="exhib-content" id="badges">
           <h3>Exhibitor Badges</h3>
@@ -154,47 +153,49 @@
           <h3>Move In / Move Out</h3>
           <ul>
             <li class="content-notice">Move-In</li>
-            <li>Saturday, January 11, 8AM-6PM</li>
-            <li><a href="../assets/pdf/cc/cc-jan2014-move-in.pdf" target="_blank">See Move-In Document</a></li>
+            <li>Friday, March 7, 12PM - 6PM</li>
+            <li>Saturday, March 8, 8AM - 6PM</li>
+            <li><a href="../assets/pdf/cc/cc-mar2014-move-in.pdf" target="_blank">See Move-In Document</a></li>
           </ul>
           <ul>
             <li class="content-notice">Move-Out</li>
-            <li>Tuesday, January 14, 5PM-8PM</li>
-            <li><a href="../assets/pdf/cc/cc-jan2014-move-out.pdf" target="_blank">See Move-Out Document</a></li>
+            <li>Tuesday, March 11, 5PM - 8PM</li>
+            <li><a href="../assets/pdf/cc/cc-mar2014-move-out.pdf" target="_blank">See Move-Out Document</a></li>
           </ul>
         </div>
         <div class="exhib-content" id="floor-plan">
           <h3>Floor Plans</h3>
           <p>To view and/or download a detailed floor plan, click on the desired venue or venue level from the image. Detailed floor plans are typically available 4-6 weeks prior to the Show opening.</p>
-          <h4>Piers 92/94</h4>
-          <a class="map-image" href="../assets/pdf/cc/cc-exhibitormap.pdf" target="_blank"><img src="../assets/img/acic/acic-floorplan-jan2014.png"></a>
+          <h4>Javits Center</h4>
+          <a class="map-image" href="../assets/pdf/gen/exhibitor_map.pdf"><img src="../assets/img/cc/cc-mar2014-level2.png"></a>
+          <a class="map-image" href="../assets/pdf/gen/exhibitor_map.pdf"><img src="../assets/img/cc/cc-mar2014-level1.png"></a>
         </div>
         <div class="exhib-content contacts" id="contacts">
           <h3>Contacts</h3>
           <ul>
             <li class="content-notice">Children's Club Team</li>
-            <li>Stanley Kaye <a href="mailto:skaye@enkshows.com">skaye@enkshows.com</a>, 646.841.1515</li>
-            <li>Lee Rosenbaum <a href="mailto:lrosenbaum@enkshows.com">lrosenbaum@enkshows.com</a>, 646.841.1464</li>
-            <li>Renata Levin <a href="mailto:rlevin@enkshows.com">rlevin@enkshows.com</a>, 646.841.1466</li>
+            <li>Stanley Kaye <a href="mailto:skaye@enkshows.com">skaye@enkshows.com</a>, 212.951.6752</li>
+            <li>Lee Rosenbaum <a href="mailto:lrosenbaum@enkshows.com">lrosenbaum@enkshows.com</a>, 212.951.6733</li>
+            <li>Renata Levin <a href="mailto:rlevin@enkshows.com">rlevin@enkshows.com</a>, 212.951.6748</li>
           </ul>
           <ul>
             <li class="content-notice">ENK Main Office</li>
             <li><strong>Accounting: </strong>Ewa Moore
-              <a href="mailto:emoore@enkshows.com">emoore@enkshows.com</a>, 646.841.1516
+              <a href="mailto:emoore@enkshows.com">emoore@enkshows.com</a>, 212.951.6709
             </li>
-            <li><strong>Operations: </strong> <a href="mailto:operations@enkshows.com">operations@enkshows.com</a>, 646.841.1436</li>
+            <li><strong>Operations: </strong> <a href="mailto:operations@enkshows.com">operations@enkshows.com</a>, 212.951.6759</li>
           </ul>
           <ul>
             <li class="content-notice">Show Site Contacts</li>
-            <li><strong>ENK Exhibitor Hotline:</strong> 646.717.0307</li>
+            <li><strong>ENK Exhibitor Hotline:</strong> 917.975.7572</li>
             <li><strong>GES Exhibitor Hotline:</strong> 201.708.8347</li>
-            <li><strong>Port Parties:</strong> 212.977.7414</li>
+            <li><strong>Javits Electric:</strong> 212.216.2090</li>
           </ul>
           <ul>
           <li class="content-notice">Customer Service / Ordering</li>
-            <li>ENK Operations<a href="mailto:operations@enkshows.com">operations@enkshows.com</a>, 646.841.1436</li>
-            <li>Port Parties: 212.977.7414</li>
+            <li>ENK Operations<a href="mailto:operations@enkshows.com">operations@enkshows.com</a>, 212.951.6759</li>
             <li>BoothSeal: 646.263.7167</li>
+            <li><strong>Javits Electric:</strong> 212.216.2090</li>
             <li>GES Contacts
               <a href="mailto:enk@ges.com">enk@ges.com</a></li>
               <ul>
@@ -205,14 +206,14 @@
         </div>
         <div class="exhib-content" id="marketing">
           <h3>Marketing Opportunities</h3>
-          <h4>Shuttle Video</h4>
-          <p>ENK will provide shuttle services throughout many midtown locations making it easier for our retailers to shop the show. During their transit, a digital video that features a select amount of brand images will be playing.</p>
+          <h4>Advertising</h4>
+          <p>The Show Catalogue is distributed to all attendees and is an essential tool used by Retailers and Press not only on show site, but after the show as well. You can reserve a full page Black &amp; White AD in the March catalog for $400. Please email <a href="mailto:rlevin@enkshows.com">rlevin@enkshows.com</a> to reserve. <a href="#">Click here</a> for Specs.</p>
 
           <h4>Digital Lookbook</h4>
           <p>We will be launching a digital lookbook on our Children's Club web page, where buyers will be able to preview your collection photos.</h4>
 
           <h4>Sneak Peek Email Blasts</h4>
-          <p>To entice our retailers with a preview of what to expect at the show, ENK will create a marketing piece that will highlight a variety of collections exhibiting at ACIC. Our "Sneak Peek" will be sent to our entire retailer and press database. 
+          <p>To entice our retailers with a preview of what to expect at the show, ENK will create a marketing piece that will highlight a variety of collections exhibiting at cc. Our "Sneak Peek" will be sent to our entire retailer and press database. 
           <a href="../assets/img/cc/sneakpeek.jpg">See Preview</a></p>
 
           <h4>Social Media</h4>
@@ -220,6 +221,7 @@
           <ul>
             <li>Facebook: <a href="https://www.facebook.com/Childrens.Club" target="_blank" >www.facebook.com/Childrens.Club</a></li>
             <li>Twitter: <a href="https://twitter.com/childrensclub" target="_blank" >@childrensclub</a></li>
+            <li>Instagram: <a href="https://instagram.com/childrensclub" target="_blank" >@childrensclub</a></li>
           </ul>
 
           <p class="content-notice">To be included in any or all opportunities, it is required that you upload your photo(s) and sign the Photo Release Agreement at <a href="http://enkforms.com/releaseform" target="_blank">http://enkforms.com/releaseform</a>.</p>
@@ -227,7 +229,7 @@
         </div>
         <div class="exhib-content" id="hints">
           <h3>Helpful Hints</h3>
-          <a href="../assets/pdf/cc/cc-jan2014-helpful-hints.pdf" target="_blank">Download helpful hints here</a>
+          <a href="../assets/pdf/cc/cc-mar2014-helpful-hints.pdf" target="_blank">Download helpful hints here</a>
         </div>
         <div class="exhib-content" id="hotel-travel">
           <h3>Hotel + Travel</h3>
@@ -236,30 +238,39 @@
         <div class="exhib-content" id="parking">
           <h3>Parking</h3>
           <p><span class="content-notice">The Pier complex will be busy with cruise ship passengers</span>, which will limit on premises parking. If you are driving to the Piers, you may wish to park in one of the nearby lots. Note: parking costs vary; you should ask the cost before parking. </p>
-          <h3>Pier Parking</h3>
+          <h3>Javits Parking</h3>
           <ul>
-            <li class="content-notice">Rapid Park</li>
-            <li>West 55th Street between 9th & 10th Avenues, 7 days/wk, 6am-1am, Cash/Credit Card (no trucks or SUV's)</li>
+            <li class="content-notice">MP 41 LLC, 475 West 41st Street</li>
+            <li>Up to 10 hrs - $12</li>
+            <li>Up to 12 hrs - $20</li>
+            <li>Up to 24 hrs - $45</li>
+            <li><a href="https://www.mpsparking.com/print-specialcoupon.php?id=41" class="content-notice alert-link" target="_blank">See Featured Parking Coupon</a></li>
           </ul>
           <ul>
-            <li class="content-notice">GMC Parking</li>
-            <li>56th Street between 11th and 12th Avenues</li>
+            <li class="content-notice">Edison</li>
+            <li>451 9th Avenue, between 35th &amp; 36th Street</li>
+            <li>412-422 West 33rd @ 9th Avenue</li>
           </ul>
           <ul>
-            <li class="content-notice">57th Street Garage</li>
-            <li>57th Street between 11th & 12th Avenues, 24-hrs, 7days/wk, Cash only</li>
+            <li class="content-notice">Kinney</li>
+            <li>150 West 38th Street, 6AM - 12AM</li>
+            <li>252 West 40th Street, 6:30AM - 11PM</li>
           </ul>
           <ul>
-            <li class="content-notice">Central Parking</li>
-            <li>57th Street at 11th Avenue, 24-hours, 7 days/wk, Cash and Credit Card</li>
+            <li class="content-notice">Meyers</li>
+            <li>230 West 31st Street, 24 hours</li>
+            <li>551 West 38th Street, 7AM - 6PM</li>
           </ul>
           <ul>
-            <li class="content-notice">Park n Ride</li>
-            <li>60th Street between 11th & 12th Avenues, 24-hours, 7 days/wk, Cash/Credit Card</li>
-          </ul>
-          <ul>
-            <li class="content-notice">Concerto Garage</li>
-            <li>59th Street between 10th & 11th Avenues, 24-hours, 7 days/wk, Cash only</li>
+            <li class="content-notice">Public Parking</li>
+            <li>493 10th Avenue @ 38th Street, 24 hours</li>
+            <li>484 10th Avenue, between 37th &amp; 38th Streets, 24 hours</li>
+            <li>330 10th Avenue @ 30th Street, 24 hours</li>
+            <li>518 30th Street, between 10th &amp; 11th Avenue, 24 hours</li>
+            <li>519 9th Avenue @ 37th Street, 24 hours</li>
+            <li>475 9th Avenue @ 37th Street, 24 hours</li>
+            <li>451 10th Avenue @ 37th Street, 24 hours</li>
+            <li>550 W 37th Street, between 10th &amp; 11th Avenue, 24 hours</li>
           </ul>
         </div>
         <div class="exhib-content" id="shows">
@@ -274,7 +285,7 @@
           <div class="faq-content">
             <!-- Question 1 -->
             <h4>What is an EAC (exhibitor appointed contractor)</h4>
-            <p>Exhibitors may employ the service of independent contractors to install and dismantle their display; providing the Exhibitor and the installation and dismantling contractor comply with the following requirements <a href="../assets/pdf/acic/acic-eac.pdf" target="_blank">(See Exhibitor appointed contractor)</a>.</p>
+            <p>Exhibitors may employ the service of independent contractors to install and dismantle their display; providing the Exhibitor and the installation and dismantling contractor comply with the following requirements <a href="../assets/pdf/gen/eac.pdf" target="_blank">(See Exhibitor appointed contractor)</a>.</p>
             <!-- Question 2 -->
             <h4>Who is the Official Show Contractor (general contractor)?</h4>
               <address>
@@ -315,26 +326,26 @@
             <p>Orders may be placed with GES without a booth number and/or if you are unsure of your booth size. If the order is placed before the deadline you can always revise/update your order and still receive the advance price. If you do not place your order by the deadline, you will need to pay the post deadline price, which will increase your costs by 25%.</p>
             <!-- Question 3 -->
             <h4>Where do I order my ENK booth package, additional furnishings, mannequins and Booth Seal?</h4>
-            <p>You may now order your ENK booth package, additional furnishing or lighting, mannequins/steams, BoothSeal, etc. easily and direct from your computer via our <a href="http://enkforms.com/expressform/cc_jan2014/" target="_blank">Online Express Order Form</a>.</p>
+            <p>You may now order your ENK booth package, additional furnishing or lighting, mannequins/steams, BoothSeal, etc. easily and direct from your computer via our <a href="http://www.enkforms.com/expressform/cc_mar2014" target="_blank">Online Express Order Form</a>.</p>
             <!-- Question 4 -->
             <h4></h4>
             <p>How can I see photos of the furniture offered?
-            <a href="../assets/pdf/acic/acic-jan2014-booth-package.pdf" target="_blank">Review Booth Furnishings Here</a></p>
+            <a href="../assets/pdf/cc/cc-mar2014-booth-package.pdf" target="_blank">Review Booth Furnishings Here</a></p>
           </div>
           <a class="faq-question" href="">Lighting / Electricity</a>
           <div class="faq-content">
             <!-- Question 1 -->
             <h4>Does my booth come with lighting or electric?</h4>
-            <p>ENK's Booth Package includes furnishings and either lighting or electricity (quantity dependent upon the booth size).  To receive the ENK booth lighting or electrical package, complete the <a href="http://enkforms.com/expressform/cc_jan2014/" target="_blank">Online Order Form</a>.</p>
+            <p>ENK's Booth Package includes furnishings and either lighting or electricity (quantity dependent upon the booth size).  To receive the ENK booth lighting or electrical package, complete the <a href="http://www.enkforms.com/expressform/cc_mar2014" target="_blank">Online Order Form</a>.</p>
             <!-- Question 2 -->
             <h4>How do I order additional electrical for my booth?</h4>
-            <p>ENK's Light Package does not come with separate outlets for showcases, steamers or your own lights, etc. To order additional lights and/or electric power, complete the <a href="http://enkforms.com/expressform/cc_jan2014/" target="_blank">Online Order Form</a>.</p>
+            <p>ENK's Light Package does not come with separate outlets for showcases, steamers or your own lights, etc. To order additional lights and/or electric power, complete the <a href="http://www.enkforms.com/expressform/cc_mar2014" target="_blank">Online Order Form</a>.</p>
             <!-- Question 3 -->
             <h4>If I bring my own lights can I install them myself</h4>
-            <p>No, you must hire the facility electricians for install and dismantle and may need to order additional electric depending on the package you choose<a href="http://enkforms.com/expressform/cc_jan2014/" target="_blank">(See Online Order Form)</a>.</p>
+            <p>No, you must hire the facility electricians for install and dismantle and may need to order additional electric depending on the package you choose<a href="http://www.enkforms.com/expressform/cc_mar2014" target="_blank">(See Online Order Form)</a>.</p>
             <!-- Question 5 -->
             <strong>What electrical work can exhibitors do themselves? </strong>
-            <p>All electrical connections must be made under the supervision of an authorized Facility electrician. All electrical equipment must be Underwriter Laboratories (UL) approved. Thin brown or white extension cords are against NYC fire laws. The official facility electrical services contractor reserves the right to make reasonable adjustments to your lighting fixtures if they are not sufficiently supported or your set up is considered a hazard.  For your safety, any adjustments to booth lights must be made by the official facility electrical contractor labor and cannot be done by an exhibitor, display house, etc. Please do not try to adjust or alter the lights in any way by yourself. If you need help, please go to the Electric Service Desk and they will have someone come to your booth to accommodate your request. If you bring your own lights, you must hire the facility electricians to install and dismantle <a href="http://enkforms.com/expressform/cc_jan2014/" target="_blank">Online Order Form</a>.</p>
+            <p>All electrical connections must be made under the supervision of an authorized Facility electrician. All electrical equipment must be Underwriter Laboratories (UL) approved. Thin brown or white extension cords are against NYC fire laws. The official facility electrical services contractor reserves the right to make reasonable adjustments to your lighting fixtures if they are not sufficiently supported or your set up is considered a hazard.  For your safety, any adjustments to booth lights must be made by the official facility electrical contractor labor and cannot be done by an exhibitor, display house, etc. Please do not try to adjust or alter the lights in any way by yourself. If you need help, please go to the Electric Service Desk and they will have someone come to your booth to accommodate your request. If you bring your own lights, you must hire the facility electricians to install and dismantle <a href="http://www.enkforms.com/expressform/cc_mar2014" target="_blank">Online Order Form</a>.</p>
           </div>
           <a href="#" class="faq-question">Empty Storage</a>
           <div class="faq-content">
@@ -350,10 +361,10 @@
           <div class="faq-content">
             <!-- Question 1 -->
             <h4>Do I need to hire Union Labor to set-up / dismantle my booth?</h4>
-            <p>Exhibitors are required to use qualified union personnel to perform various services at the Exhibit Facility. All crates, whether containing exhibit materials or samples, must be "opened" by union personnel. Union labor is required for set-up and dismantling of displays. You may perform any work with regard to the unpacking and placement of your product, as well as the removal and re-packing of your product. Under no circumstances should you become involved in disputes regarding labor to be performed. Refer all questions to GES or ENK. Make sure that all personnel working in your Booth are familiar with these union regulations. Place any labor orders with GES in advance, to help assure that the required work can be done in the most economical fashion.  Refer to the <a href="http://enkforms.com/expressform/cc_jan2014/" target="_blank">Online Order Form</a>.</p>
+            <p>Exhibitors are required to use qualified union personnel to perform various services at the Exhibit Facility. All crates, whether containing exhibit materials or samples, must be "opened" by union personnel. Union labor is required for set-up and dismantling of displays. You may perform any work with regard to the unpacking and placement of your product, as well as the removal and re-packing of your product. Under no circumstances should you become involved in disputes regarding labor to be performed. Refer all questions to GES or ENK. Make sure that all personnel working in your Booth are familiar with these union regulations. Place any labor orders with GES in advance, to help assure that the required work can be done in the most economical fashion.  Refer to the <a href="http://www.enkforms.com/expressform/cc_mar2014" target="_blank">Online Order Form</a>.</p>
             <!-- Question 1 -->
             <h4>How do I hire Union Labor? </h4>
-            <p>All union labor must be ordered and organized through GES.  Place any labor orders with GES in advance, to help assure that the required work can be done in the most economical fashion.  Refer to the <a href="http://enkforms.com/expressform/cc_jan2014/" target="_blank">Online Order Form</a>.</p>
+            <p>All union labor must be ordered and organized through GES.  Place any labor orders with GES in advance, to help assure that the required work can be done in the most economical fashion.  Refer to the <a href="http://www.enkforms.com/expressform/cc_mar2014" target="_blank">Online Order Form</a>.</p>
           </div>
           <a href="#" class="faq-question">Security</a>
           <div class="faq-content">
@@ -365,7 +376,7 @@
             <p>Pre-show, you may hire a private guard through Citadel Security, ENK's exclusive security company, at 718.948.3658, or order Booth Seal. Refer to the online order form to order a Private Guard or Booth Seal. Security guards requested at show site cannot be guaranteed.</p>
             <!-- Question 3 -->
             <h4>What is secured storage?</h4>
-            <p>ENK's Secured Storage area(s) will be open <strong>beginning with the first move-in day</strong> <a href="../assets/pdf/acic/acic-exhibition-schedule.pdf" target="_blank">(See Exhibition Schedule)</a>. Exhibitors may place their merchandise in this area at no charge. All merchandise placed in the Secured Storage Room must be removed within 30 minutes of the show closing on the last day. All materials checked into the Secured Storage Room must be secured in a box, suitcase, garment bag, etc. Loose merchandise will not be accepted. Security will log the number of boxes, suitcases, etc. you check into the Secured Storage Room; they will not count the merchandise within the box, suitcase, etc. Upon retrieving your merchandise the following day, you will be asked to sign for your boxes/garment bags. The Secured Storage Room will have a guard stationed outside the room on a 24-hour basis. The Secured Storage Room is not large enough to accept empty suitcases, boxes, crate or display materials you elected not to use within your booth, etc. These must be stored in GES' empty storage by placing an "empty" label on each item with your booth number clearly written on the label.</p>
+            <p>ENK's Secured Storage area(s) will be open <strong>beginning with the first move-in day</strong> <a href="../assets/pdf/cc/cc-mar2014-exhibition-schedule.pdf" target="_blank">(See Exhibition Schedule)</a>. Exhibitors may place their merchandise in this area at no charge. All merchandise placed in the Secured Storage Room must be removed within 30 minutes of the show closing on the last day. All materials checked into the Secured Storage Room must be secured in a box, suitcase, garment bag, etc. Loose merchandise will not be accepted. Security will log the number of boxes, suitcases, etc. you check into the Secured Storage Room; they will not count the merchandise within the box, suitcase, etc. Upon retrieving your merchandise the following day, you will be asked to sign for your boxes/garment bags. The Secured Storage Room will have a guard stationed outside the room on a 24-hour basis. The Secured Storage Room is not large enough to accept empty suitcases, boxes, crate or display materials you elected not to use within your booth, etc. These must be stored in GES' empty storage by placing an "empty" label on each item with your booth number clearly written on the label.</p>
           </div>
           <a href="#" class="faq-question">Travel Accomodations</a>
           <div class="faq-content">
@@ -374,7 +385,7 @@
             <p>ENK has partnered with Travel Planners so that you can receive the lowest rates available.  For information and reservations, contact them at 800.221.3531 or 212.532.1660 or <a href="http://www.enktravel.com">www.enktravel.com</a>.</p>
             <!-- Question 2 -->
             <h4>Will shuttle service be available?</h4>
-            <p>Shuttle Service will run on Show days from 8AM to 7PM (until 6PM on the last Show day). The buses are scheduled as follows: every 30 minutes from 8AM-3PM, 15-20 minutes after 3PM, from the beginning of each route (see list below).  It will take approximately 5-10 minutes between each stop. (Pick-up times will vary slightly due to traffic conditions.)</p>
+            <p>Shuttle Service will run on Show days from 8am to 7PM (until 6PM on the last Show day). The buses are scheduled as follows: every 30 minutes from 8am-3PM, 15-20 minutes after 3PM, from the beginning of each route (see list below).  It will take approximately 5-10 minutes between each stop. (Pick-up times will vary slightly due to traffic conditions.)</p>
           </div>
           <a href="#" class="faq-question">Shipping / Material Handling</a>
           <div class="faq-content">
@@ -383,44 +394,37 @@
             <p>Material handling, often referred to as drayage, is the movement of your freight from the carrier to your booth and then back to the carrier at the close of the show.  Material handling charges are computed based on the weight of your materials. The weight is rounded up to the closest hundred pounds (cwt.) and charged according to the rates published in guidebook/online order form.  ENK has paid for the first 500 lbs. of freight handling charges within the exhibit facility.</p>
             <!-- Question 2 -->
             <h4>What is a Bill of Lading? </h4>
-            <p>Exhibitors that will be using the freight dock must complete a Bill of Lading <a href="../assets/pdf/acic/acic-bill-of-lading.pdf" target="_blank">(See Bill of Lading)</a>. This form tells GES who is sending the shipment, where the shipment is going, the number of pieces, how it is being shipped and who is responsible for the charges. The Bill of Lading can be picked up from the Exhibitor Service Desk once your account with them has been paid.</p>
+            <p>Exhibitors that will be using the freight dock must complete a Bill of Lading <a href="../assets/pdf/gen/bill-of-lading.pdf" target="_blank">(See Bill of Lading)</a>. This form tells GES who is sending the shipment, where the shipment is going, the number of pieces, how it is being shipped and who is responsible for the charges. The Bill of Lading can be picked up from the Exhibitor Service Desk once your account with them has been paid.</p>
             <!-- Question 3 -->
             <h4>What is the advanced shipping deadline and address?</h4>
             <p>
               <address>
                 Insert Exhibiting Collection Name<br/>
                 Insert Show Name &amp; your booth #<br/>
-                125 North Street<br/>
-                Teterboro, NJ 07608<br/>
+                203 Kuller Road<br/>
+                Clifton, NJ 07011<br/>
               </address>
             </p>
-            <p class="alert">Must arrive on or before December 19, 2013</p>
-            <p>Shipments received at GES' warehouse after the deadline may be accepted; however, there will be a 25% surcharge to the existing
-            freight handling fees if the shipment is received after the deadline.</p>
+            <p class="alert">Must arrive on or before February 20, 2014</p>
+            <p>Shipments received at GES' warehouse after the deadline may be accepted; however, there will be a 25% surcharge to the existing freight handling fees if the shipment is received after the deadline.</p>
             <!-- Question 4 -->
             <h4>What is the direct to show shipping address?</h4>
             <p>
               <address>
-                <h4>Pier 92</h4>
+                <h4>Javits Center</h4>
                 Insert your Exhibiting Collection Name<br/>
                 Insert Show &amp; Booth #<br/>
-                c/o GES Pier 92/94<br/>
-                755 12th Avenue<br/>
-                New York, NY 10019<br/>
+                c/o GES Javits Center<br/>
+                655 West 34th Street<br/>
+                New York, NY 10001<br/>
               </address>
             </p>
-            <p>
-              <address>
-                <h4>Pier 94</h4>
-                Insert your Exhibiting Collection Name<br/>
-                Insert Show &amp; Booth #<br/>
-                c/o GES Pier 92/94<br/>
-                755 12th Avenue<br/>
-                New York, NY 10019<br/>
-              </address>
-            </p>
-            <p>Shipment will only be accepted during official move-in days/times</p>
-            <p class="alert">January 3, 8:00AM-4:30PM (UPS, DHL, FedEx only) no truck or messenger deliveries<br/>January 5, 8AM-4:30PM</p>
+            <ul >
+              <li>Shipment will only be accepted during official move-in days/times</li>
+              <li class="alert">March 7, 12:00PM-4:30PM</li>
+              <li class="alert">March 8, 8:00AM-4:30PM</li>
+            </ul>
+            <p ><br></p>
             <!-- Question 5 -->
             <h4>Can I ship directly to show site prior to the move-in date?</h4>
             <p>No, GES will begin receiving show site shipments during exhibitor move-in days only.  Shipments delivered prior to official move-in days will be refused.</p>
@@ -450,7 +454,7 @@
           <div class="faq-content">
             <!-- Question 1 -->
             <h4>What is the average length of time for customs clearance?</h4>
-            <p>Currently it takes from 1-3 business days to clear air freight shipments and 3-5 days to clear ocean freight shipments through U.S. Customs and Border Protection.  If the shipments are chosen for intensive exam, the goods must be transported to an examination station and an additional 5-10 days will be added to the clearance time.U.S. Customs operating hours are 8am-4:30pm (Eastern) weekdays (Monday-Friday Only).</p>
+            <p>Currently it takes from 1-3 business days to clear air freight shipments and 3-5 days to clear ocean freight shipments through U.S. Customs and Border Protection.  If the shipments are chosen for intensive exam, the goods must be transported to an examination station and an additional 5-10 days will be added to the clearance time. U.S. Customs operating hours are 8:00AM-4:30PM (Eastern) weekdays (Monday-Friday Only).</p>
             <!-- Question 2 -->
             <h4>Why should I hire a broker? </h4>
             <p>The customs brokerage firm will be mainly responsible for the smooth shipment of goods and preparation of all legal documents for customs clearance.  A good customs broker is equipped with up-to-date knowledge and technology to deal with customs officers and overcome the barriers.
@@ -463,7 +467,7 @@
         </div>
         <div class="exhib-content" id="booth-diagrams">
           <h3>Booth Diagrams</h3>
-          <a class="download" href="../assets/pdf/cc/cc-jan2014-booth-details.pdf" target="_blank">Download booth information here</a>
+          <a class="download" href="../assets/pdf/cc/cc-mar2014-booth-details.pdf" target="_blank">Download booth information here</a>
           <div class="booth-display">
             <h4>5' Deep Booths</h4>
             <select name="booth-diagrams" class="booth-select" id="booth-select">
