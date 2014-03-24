@@ -133,6 +133,31 @@ ol li {
   color: black;
 }
 
+/* line 41, ../sass/_global.scss */
+.fl-r {
+  float: right;
+}
+
+/* line 42, ../sass/_global.scss */
+.fl-l {
+  float: left;
+}
+
+/* line 43, ../sass/_global.scss */
+.fl-no {
+  float: none;
+}
+
+/* line 44, ../sass/_global.scss */
+.bl {
+  display: block;
+}
+
+/* line 45, ../sass/_global.scss */
+.in-bl {
+  display: inline-block;
+}
+
 /* line 2, ../sass/_type.scss */
 body {
   font-family: "Gotham SSm 7r", "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
@@ -182,6 +207,11 @@ a {
 /* line 11, ../sass/_type.scss */
 a:hover {
   color: #ee1c24;
+}
+
+/* line 13, ../sass/_type.scss */
+strong {
+  font-weight: bold;
 }
 
 /* line 14, ../sass/_type.scss */
@@ -367,39 +397,38 @@ a:hover {
 }
 /* line 17, ../sass/_main.scss */
 .main .exhib-content ul {
-  float: left;
   padding-right: 55px;
   margin-bottom: 25px;
 }
-/* line 22, ../sass/_main.scss */
+/* line 21, ../sass/_main.scss */
 .main .exhib-content a {
   text-transform: none;
 }
-/* line 23, ../sass/_main.scss */
+/* line 22, ../sass/_main.scss */
 .main .exhib-content a img {
   margin: 20px 0;
 }
-/* line 30, ../sass/_main.scss */
+/* line 29, ../sass/_main.scss */
 .main #parking ul,
 .main #marketing ul,
 .main #temp-help ul,
 .main #faq ul {
   float: none;
 }
-/* line 32, ../sass/_main.scss */
+/* line 31, ../sass/_main.scss */
 .main #temp-help .temp-tasks {
   margin-left: 20px;
 }
-/* line 34, ../sass/_main.scss */
+/* line 33, ../sass/_main.scss */
 .main #temp-help .temp-tasks li {
   list-style: disc;
 }
-/* line 37, ../sass/_main.scss */
+/* line 36, ../sass/_main.scss */
 .main #temp-help .temp-contact {
   float: left;
   padding-right: 25px;
 }
-/* line 43, ../sass/_main.scss */
+/* line 42, ../sass/_main.scss */
 .main #badges .info-link,
 .main #booth-diagrams .download {
   display: inline-block;

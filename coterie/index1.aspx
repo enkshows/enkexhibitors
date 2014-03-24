@@ -257,7 +257,7 @@
         </div>
         <div class="exhib-content" id="hotel-travel">
           <h3>Hotel + Travel</h3>
-          <p>ENK, together with our travel partner <a target="_blank" href="http://www2.quikbook.com/event/sole_commerce.asp?incentivecode=ENKSOLEEXH&utm_source=ENKSOLE&utm_medium=site&utm_content=ENKSOLEEXH&utm_campaign=qbprivatelabelsite">Quickbook</a>, has negotiated discounted rates at many NYC hotels. Please visit the <a target="_blank" href="http://www2.quikbook.com/event/sole_commerce.asp?incentivecode=ENKSOLEEXH&utm_source=ENKSOLE&utm_medium=site&utm_content=ENKSOLEEXH&utm_campaign=qbprivatelabelsite">Quickbook</a>  to make reservations or call 800.789.9887 (from the US, Canada &amp; Caribbean) or 212.779.7666.</p>
+          <p>For exclusive hotel discounts and reservations, please click <a href="http://www2.quikbook.com/event/sole_commerce.asp?incentivecode=ENKSOLEEXH&utm_source=ENKSOLE&utm_medium=site&utm_content=ENKSOLEEXH&utm_campaign=qbprivatelabelsite" target="new">Exhibitors</a>.</p>
           <a target="_blank" href="http://www2.quikbook.com/event/sole_commerce.asp?incentivecode=ENKSOLEEXH&utm_source=ENKSOLE&utm_medium=site&utm_content=ENKSOLEEXH&utm_campaign=qbprivatelabelsite">
             <img src="../assets/img/fc/fc-travel-promo.jpg" alt="Visit  Quickbook for exlclusive rates.">
           </a>

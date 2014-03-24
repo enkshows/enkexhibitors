@@ -37,3 +37,9 @@ ol li { list-style-type: decimal; margin-left: 20px;}
   color: $enk-red;
   &:hover {color: $enk-black;}
 }
+
+.fl-r {float:right;}
+.fl-l {float:left;}
+.fl-no {float:none;}
+.bl {display: block;}
+.in-bl {display:inline-block;}
