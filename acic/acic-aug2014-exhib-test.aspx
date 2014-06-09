@@ -219,7 +219,7 @@
           <h3>Marketing Opportunities</h3>
 
           <h4>Digital Lookbook</h4>
-          <p>Accessible on our website so that retailers will be able to preview your Holiday/ Resort and Pre-collection images. See example here. See <a href="http://www.iclookbook.enkshows.com/" target="_blank">preview.</a></p>
+          <p>Accessible on our website so that retailers will be able to preview your Holiday/ Resort and Pre-collection images. See preview for <a href="http://www.aclookbook.enkshows.com/">Accessories Circuit</a> and <a href="http://www.iclookbook.enkshows.com/">Intermezzo Collections</a>. </p>
 
           <h4>Sneak Peek Email Blasts</h4>
           <p>To entice our retailers with a preview of what to expect at the show, ENK will create a marketing piece that will highlight a variety of collections exhibiting at ACIC. Our "Sneak Peek" will be sent to our entire retailer and press database.
@@ -234,6 +234,14 @@
           </ul>
 
           <p class="content-notice">To be included in any or all opportunities, it is required that you upload your photo(s) and sign the Photo Release Agreement at <a href="http://enkforms.com/releaseform" target="_blank">http://enkforms.com/releaseform</a>.</p>
+          <p>
+            To be included in any or all opportunities, it is required that you upload your photo(s) and sign the Photo Release Agreement at http://enkforms.com/releaseform. Please <span class="alert content-notice">indicate</span> your brand name in the file <span class="alert content-notice">upload</span>. Note: <span class="alert content-notice">Photo selection is at the sole discretion of ENK.</span>   
+
+          </p>
+
+
+
+
           <p class="content-notice">Please use your brand name in the file names. Note: Photo selection is at the sole discretion of ENK. </p>
             <ul>
               <li>If you have any questions please don't hesitate to contact:</li>

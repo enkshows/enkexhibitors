@@ -209,23 +209,24 @@
         </div>
         <div class="exhib-content" id="marketing">
           <h3>Marketing Opportunities</h3>
-          <h4>Advertising</h4>
-          <p>The Show Catalogue is distributed to all attendees and is an essential tool used by Retailers and Press not only on show site, but after the show as well. You can reserve a full page Black &amp; White AD in the March catalog for $400. Please email <a href="mailto:rlevin@enkshows.com">rlevin@enkshows.com</a> to reserve. <a href="../assets/pdf/cc/cc-aug2014-spec.pdf" target="_blank">Click here</a> for Specs.</p>
-
           <h4>Digital Lookbook</h4>
-          <p>We will be launching a digital lookbook on our Children's Club web page, where buyers will be able to preview your collection photos.</h4>
+          <p>There will be a digital lookbook on our Children’s Club web page, where buyers will be able to preview your collections photos.</h4>
 
           <h4>Sneak Peek Email Blasts</h4>
-          <p>To entice our retailers with a preview of what to expect at the show, ENK will create a marketing piece that will highlight a variety of collections exhibiting at cc. Our "Sneak Peek" will be sent to our entire retailer and press database. 
+          <p>To entice our retailers with a preview of what to expect at the show, ENK will create a marketing piece that will highlight a variety of collections exhibiting at Children’s Club. Our "Sneak Peek" will be sent to our entire retailer and press database.
           <a href="../assets/img/cc/sneakpeek.jpg">See Preview</a></p>
 
           <h4>Social Media</h4>
-          <p>Your photos may also be utilized on any of our social media websites. Be sure to follow/like us to see if your images have been chosen and to stay informed on all new and exciting news at the show! </p>
+          <p>Your photos may also be utilized on any of our social media websites. Be sure to follow/like us to see if your images have been chosen and to stay informed on all new and exciting news at the show!</p>
           <ul>
             <li>Facebook: <a href="https://www.facebook.com/Childrens.Club" target="_blank" >www.facebook.com/Childrens.Club</a></li>
             <li>Twitter: <a href="https://twitter.com/childrensclub" target="_blank" >@childrensclub</a></li>
             <li>Instagram: <a href="https://instagram.com/childrensclub" target="_blank" >@childrensclub</a></li>
           </ul>
+
+          <h4>Advertising</h4>
+          <p>Request a full page black & white ad in our catalogue, for $475. The catalogue is distributed to all attendees and is an essential tool used by retailers not only on show site, but after the show as well. For additional information, <a href="../assets/pdf/cc/cc-aug2014-spec.pdf" target="_blank">download our specs and deadlines document.</a></p> 
+          <p>To reserve your advertisement, or if you have any questions, please email Renata Gramp, <a href="mailto:rlevin@enkshows.com">rlevin@enkshows.com</a>.</p>
 
           <p class="content-notice">To be included in any or all opportunities, it is required that you upload your photo(s) and sign the Photo Release Agreement at <a href="http://enkforms.com/releaseform" target="_blank">http://enkforms.com/releaseform</a>.</p>
           <p class="content-notice">Please use your brand name in the file names. Note: Photo selection is at the sole discretion of ENK.</p>
