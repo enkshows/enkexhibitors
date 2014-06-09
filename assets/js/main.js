@@ -1,5 +1,6 @@
 $(document).ready(function(){
-
+  Shadowbox.init();
+   
 	// Hides all content except for first on page load
 	$(".main--content").each(function(){
 		$("div[class^=exhib-]:not(:first)", this).hide();

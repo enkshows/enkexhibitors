@@ -5,12 +5,18 @@
 	position: relative;
 	width: 755px;
 	float: left;
+	
 
 	.main--header {
 		margin-bottom: 20px;
 		h2 {margin-bottom: 20px;}
 	}
-	.main--content {float: left; margin-bottom: 75px;}
+	.main--content {
+		float: left;
+		width: 100%; 	
+	 	margin-bottom: 75px;
+	}
+
 	.exhib-content {
 		width: 505px;
 		float: left;

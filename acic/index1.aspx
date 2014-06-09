@@ -105,7 +105,7 @@
             <h4 class="content-notice">Move-In</h4>
             <ul>
               <li>Friday, May 2, 8AM-6PM</li>
-              <li>Saturday, May 3, DARK DAY</li>
+              <li>Saturday, May 3, <strong>DARK DAY</strong></li>
               <li>Sunday, May 4, 8AM-6PM</li>
             </ul>
             <a href="../assets/pdf/acic/acic-may2014-move-in.pdf" target="_blank">See move-in document</a>
@@ -163,14 +163,14 @@
           <ul>
             <li class="content-notice">Move-In</li>
             <li>Friday, May 2, 8AM-6PM</li>
-            <li>Saturday, May 3, Dark Day</li>
+            <li>Saturday, May 3, <strong>Dark Day</strong></li>
             <li>Sunday, May 4, 8AM-6PM</li>
             <li><a href="../assets/pdf/acic/acic-may2014-move-in.pdf" target="_blank">See Move-In Document</a></li>
           </ul>
           <ul>
             <li class="content-notice">Move-Out</li>
             <li>Wednesday, May 7, 5PM-8PM</li>
-            <li><a href="../assets/pdf/acic/acic-may2014-move-out.pdf" target="_blank">See Move-In Document</a></li>
+            <li><a href="../assets/pdf/acic/acic-may2014-move-out.pdf" target="_blank">See Move-Out Document</a></li>
           </ul>
         </div>
 <!--         <div class="exhib-content" id="floor-plan">
