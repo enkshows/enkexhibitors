@@ -1,0 +1,11 @@
+.coterie {
+  .map-image {width: 220px;}
+  .map-image.in-bl {
+    width: 240px;
+    margin-right: 10px;
+
+    &:last-chlid {
+      margin-right: 0;
+    }
+  }
+}

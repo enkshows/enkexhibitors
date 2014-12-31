@@ -22,7 +22,7 @@
   
 </head>
 <body>
-<!--[if lt IE 7]>
+<!--[if lt IE 9]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
             <![endif]-->
   <div class="container">
@@ -49,8 +49,17 @@
       <div class="main--content">
         <a class="btn btn-exhib" href="acic/index1.aspx">
           <h2>Circuit.Intermezzo</h2>
-          <p>May 5.6.7 @ Piers 92.94</p>
+          <p>January 5.6.7 @ Piers 92/94.NYC</p>
         </a>
+        <a class="btn btn-exhib" href="childrensclub/index1.aspx">
+          <h2>Children's Club</h2>
+          <p>January 11.12.13 @ Pier 94.NYC</p>
+        </a>
+
+        <!-- <a class="btn btn-exhib" href="enkvegas/index.html">
+          <h2>ENKVegas</h2>
+          <p>February 17.18.19 @ Mandalay Bay.LV</p>
+        </a> -->
       </div>
     </div>
   </div>
@@ -60,8 +69,8 @@
       <li>
         <address>641 Lexington Avenue New York, NY 10022</address>
       </li>
-      <li>T. 212.759.8055</li>
-      <li>F. 212.758.3403</li>
+      <li>T. 212.951.6600</li>
+      <li>F. 917.591.8578</li>
     </ul>
     <ul class="contact">
       <li><a href="#">enkshows@enkshows.com</a></li>

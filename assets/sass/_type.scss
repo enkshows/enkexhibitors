@@ -8,8 +8,18 @@ h3, h4 {font-size: 12px; font-weight: bold;}
 
 p {font-size: 12px; margin-bottom: 20px;}
 a {color: $enk-black;
+  display: block;
   &:hover {color: $enk-red;}
 }
+
+p > a,
+li > a {display: inline-block;}
+
 strong {font-weight:bold;}
 .content-notice {font-weight: 600;}
 .alert {color: $enk-red;}
+
+
+#order-form h3 {
+  margin-top: 20px;
+}

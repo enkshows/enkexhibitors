@@ -1,18 +1,14 @@
 $(document).ready(function(){
   Shadowbox.init();
    
-	// Hides all content except for first on page load
-	$(".main--content").each(function(){
-		$("div[class^=exhib-]:not(:first)", this).hide();
-	});
-  
-  // toggles through nav element and associated content
+    // toggles through nav element and associated content
 	$('.main--nav li a[href^="#"]').on('click', function(e){
 		e.preventDefault();
 		var $id = $(this).attr('href');
-    $('.exhib-content').hide();
-		$($id).show();
+    $($id).addClass('is-active').siblings().removeClass('is-active');
+    // $($id).addClasS('is-active');
 	});
+
 
 	// hide and show common questions 
 	var $faq = $('.faq-content');

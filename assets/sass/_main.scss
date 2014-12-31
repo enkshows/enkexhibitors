@@ -16,23 +16,45 @@
 		width: 100%; 	
 	 	margin-bottom: 75px;
 	}
-
+	
+	.exhib-content.is-active {
+		display: block;
+	}
 	.exhib-content {
 		width: 505px;
 		float: left;
+		display: none;
 		ul {
 			padding-right: 55px;
 			margin-bottom: 25px;
+			float: left;
 		}
 		a { text-transform: none;
-			img {margin: 20px 0;}
+			img {
+				display: block;
+				margin: 20px 0; 
+				width: 100%;
+			}
 		}
 		
 	}
-	#parking ul, 
-	#marketing ul, 
-	#temp-help ul,
-	#faq  ul {float: none;}
+	// #parking ul, 
+	#marketing ul,
+	#order-form ul {
+			float: none;
+		}
+
+
+	// #temp-help ul,
+	// #faq  ul {float: none;}
+
+	// #parking .content-notice {
+	// 	// margin-top: 10px;
+	// }
+
+	#parking ul {
+		margin-bottom: 15px;
+	}
 	
 	#temp-help .temp-tasks {
 		margin-left: 20px;
@@ -45,6 +67,9 @@
 	}
 
 	#badges .info-link,
-	#booth-diagrams .download { display: inline-block; margin: 0 0 25px;}
+	#booth-diagrams .download { 
+		display: inline-block; 
+		margin: 0 0 25px;
+	}
 }
 
