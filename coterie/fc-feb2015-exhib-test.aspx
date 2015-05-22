@@ -59,14 +59,14 @@
             <li><a href="#moving">Move In / Move Out</a></li>
             <li><a href="#floor-plan">Floor Plans</a>
               <ul class="sub-nav">
-                <li><a href="#floor-plan">3D Map</a></li>
+                <!-- <li><a href="#floor-plan">3D Map</a></li> -->
                 <li><a href="#floor-plan" target="_blank">Detailed Floorplans</a>
                 </li>
-                <ul class="sub-nav-second">
-                  <li><a href="../assets/pdf/fc/2015/fc-feb2015_exhibitormap_lv4.pdf">Level 4 (100 - 800)</a></li>
-                  <li><a href="../assets/pdf/fc/2015/fc-feb2015_exhibitormap_lv3.pdf">Level 3 (1500 - 8000)</a></li>
-                  <li><a href="../assets/pdf/fc/2015/fc-feb2015_exhibitormap_lv1.pdf">Level 1 (8300 - 10,400)</a></li>
-                </ul>
+                <!-- <ul class="sub-nav-second">
+                  <li><a href="../assets/pdf/fc/2015/fc-feb2015-exhibitor_map_lv4.pdf">Level 4</a></li>
+                  <li><a href="../assets/pdf/fc/2015/fc-feb2015-exhibitor_map_lv3.pdf">Level 3</a></li>
+                  <li><a href="../assets/pdf/fc/2015/fc-feb2015-exhibitor_map_lv2.pdf">Level 2</a></li>
+                </ul> -->
               </ul>
             </li> 
             <li><a href="#contacts">Contacts</a></li>
@@ -90,9 +90,9 @@
           </ul>
           <ul>
             <li class="content-notice">Hours</li>
-            <li>Monday, February 23 / 9AM - 6PM</li>
-            <li>Tuesday, February 24 / 9AM - 6PM</li>
-            <li>Wednesday, February 25 / 9AM - 5PM</li>
+            <li>Sunday, February 23 / 9AM - 6PM</li>
+            <li>Monday, February 24 / 9AM - 6PM</li>
+            <li>Tuesday, February 25 / 9AM - 5PM</li>
           </ul>
           <div id="map-canvas" style="width: 550px; height: 300px;" data-location="javits"></div>
         </div>
@@ -104,8 +104,8 @@
           <h3>Exhibitor Guidebook</h3>
           <div class="guide-exhib-l">
             <h4 class="content-notice">Move-In</h4>
-            <p>Saturday, February 21, 1PM - 6PM<br>
-            Sunday, February 22, 8AM - 6PM<br>
+            <p>Friday, February 21, 1PM - 6PM<br>
+            Saturday, February 22, 8AM - 6PM<br>
             <a href="../assets/pdf/fc/2015/fc-feb2015-move-in.pdf" target="_blank">See move-in document</a></p>
             <p>*Freight handling assistants are available on a first-come/serve basis until 5:00pm ONLY; and all vehicles that need assistance unloading or use of the loading dock must arrive by 4:30pm. No freight may be moved in after 5pm either hand-carry or otherwise.</p>
             <h4>Booth Package Deadlines</h4>
@@ -159,8 +159,8 @@
           <h3>Move In / Move Out</h3>
           <ul>
             <li class="content-notice">Move-In</li>
-            <li>Saturday, February 21, 1PM - 6PM</li>
-            <li>Sunday, February 22, 8AM - 6PM</li>
+            <li>Friday, February 21, 1PM - 6PM</li>
+            <li>Saturday, February 22, 8AM - 6PM</li>
             <li></li>
 <!--             <li class="alert">Level 4 (Booths # 100-699)</li>
             <li>Friday, September 12, 1PM - 6PM</li>
@@ -169,7 +169,7 @@
           </ul>
           <ul>
             <li class="content-notice">Move-Out</li>
-            <li>Wednesday, February 25 / 5PM - 8PM</li>
+            <li>Tuesday, February 25 / 5PM - 8PM</li>
             <li><a href="../assets/pdf/fc/2015/fc-feb2015-move-out.pdf" target="_blank">See Move-Out Document</a></li>
           </ul>
         </div>
@@ -177,17 +177,17 @@
           <h3>Floor Plans</h3>
           <p>To view and/or download a detailed floor plan, click on the desired venue or venue level from the image. Detailed floor plans are typically available 4-6 weeks prior to the Show opening.</p>
           <h4>Javits Center</h4>
-          
-
-
-          <a href="../assets/pdf/fc/2015/fc-feb2015_exhibitormap_lv4.pdf">
-            <img src="../assets/img/fc/javits-level4.png" width="300" style="width:300px;">
+          <a class="map-image" href="../assets/pdf/gen/coming-soon.pdf">
+          <!-- ../assets/pdf/fc/2015/fc-feb2015-exhibitor_map_lv4.pdf -->
+            <img src="../assets/img/fc/javits-sep2014-level4.png">
           </a>
-          <a href="../assets/pdf/fc/2015/fc-feb2015_exhibitormap_lv3.pdf">
-            <img src="../assets/img/fc/gen-javits-lv3.png" width="100%">
+          <a class="map-image in-bl" href="../assets/pdf/gen/coming-soon.pdf">
+          <!-- ../assets/fc/2015/fc-feb2015-exhibitor_map_lv3.pdf -->
+            <img src="../assets/img/fc/javits-sep2014-level3.png">
           </a>
-          <a href="../assets/pdf/fc/2015/fc-feb2015_exhibitormap_lv1.pdf">
-            <img src="../assets/img/fc/javits-level1.png" width="300" style="width:300px;">
+          <a class="map-image in-bl" href="../assets/pdf/gen/coming-soon.pdf">
+          <!-- ../assets/pdf/fc/2015/fc-feb2015-exhibitor_map_lv2pdf -->
+            <img src="../assets/img/fc/javits-sep2014-level2-alt2.png">
           </a>
         </div>
         <div class="exhib-content contacts" id="contacts">
@@ -196,6 +196,7 @@
             <li class="content-notice">Fashion Coterie Team</li>
             <li>Emilie Cooke, <a href="mailto:ecooke@enkshows.com">ecooke@enkshows.com</a>, 212.951.6708</li>
             <li>Elizabeth Turner, <a href="mailto:eturner@enkshows.com">eturner@enkshows.com</a>, 212.951.6760</li>
+            <li>Ivy Quejado, <a href="mailto:iquejado@enkshows.com">iquejado@enkshows.com</a>, 212.951.6714</li>
             <li>Katrina Shkreli, <a href="mailto:kshkreli@enkshows.com">kshkreli@enkshows.com</a>, 212.951.6731</li>
             <li>Sally Peterson, <a href="mailto:speterson@enkshows.com">speterson@enkshows.com</a>, 212.951.6736</li>
           </ul>
@@ -238,7 +239,7 @@
           </ul>
           <h4>Advertise in the Daily</h4>
           <p>Request an ad in the Daily! The Daily Front Row is distributed to all attendees and is viewed by retailers not only on show site, but after the show as well.</p>
-          <p>To reserve your advertisement, or if you have any questions, please email Mindy Dorf, <a href="mailto:mindy@dailyfrontrow.com">mindy@dailyfrontrow.com</a>.</p>
+          <p>To reserve your advertisement, or if you have any questions, please email Charles Garone, <a href="mailto:charles@dailyfrontrow.com.">charles@dailyfrontrow.com.</a></p>
 
           <p class="content-notice">To be included in any or all opportunities, it is required that you upload your photo(s) and sign the Photo Release Agreement at <a href="http://enkforms.com/releaseform" target="_blank">http://enkforms.com/releaseform</a>.</p>
           <p class="content-notice">Please use your brand name in the file names. <strong>Note: Photo selection is at the sole discretion of ENK. </strong></p>
@@ -526,7 +527,6 @@
     </div>
   </div>
   <div class="footer">
-    <img src="../assets/img/UBM_Footer.png" alt="">
     <ul class="address">
       <li><a href="#">ENK International</a></li>
       <li>

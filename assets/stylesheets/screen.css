@@ -354,7 +354,7 @@ strong {
 /* line 56, ../sass/_nav.scss */
 .main--nav {
   float: left;
-  margin-right: 20px;
+  margin-right: 15px;
 }
 /* line 59, ../sass/_nav.scss */
 .main--nav li {
@@ -564,6 +564,12 @@ strong {
   background: url(../img/stripe-dark.png) repeat;
   clear: both;
 }
+
+.footer img {
+  width: 130px;
+  vertical-align: top;
+}
+
 /* line 8, ../sass/_footer.scss */
 .footer a {
   color: #ee1c24;

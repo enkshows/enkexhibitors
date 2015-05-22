@@ -40,7 +40,7 @@
       </ul>
     </nav>
     <nav class="nav-notice">
-      <img src="../assets/img/acic/acic-notice01.15.gif" alt="">
+      <img src="../assets/img/acic/acic-notice04.15.gif" alt="">
     </nav>
     <div class="main">
       <header class="main--header">
@@ -59,10 +59,11 @@
             <li><a href="#booth-diagrams">Booth Diagrams &amp; Dimensions</a></li>
             <li><a href="#badges">Exhibitor Badges</a></li>
             <li><a href="#moving">Move In / Move Out</a></li>
+            <li><a href="#shipping">Shipping Info / Labels</a></li>
             <li><a href="#floor-plan">Floor Plans</a>
               <ul class="sub-nav">
                 <li><a href="#floor-plan">3D Map</a></li>
-                <li><a href="../assets/pdf/acic/2015/acic_jan2015_exhibitormap.pdf" target="_blank">Detailed Floorplan</a></li>
+                <li><a href="../assets/pdf/acic/2015/acic-apr2015_exhibitormap.pdf" target="_blank">Detailed Floorplan</a></li>
               </ul>
             </li> 
             <li><a href="#contacts">Contacts</a></li>
@@ -72,35 +73,28 @@
             <!-- <li><a href="#travel-advisory">Travel Advisory</a></li> -->
             <li><a href="#parking">Parking</a></li>
             <li><a href="#shows">Show Websites</a></li>
-            <li><a href="#wifi">Wireless Internet (WiFi)</a></li>
             <li><a href="#faq">Common Questions</a></li>
           </ul>
         </div>
         <div class="exhib-content is-active" id="show-hours">
           <h3>Show Hours / Venue</h3>
           <ul class="in-bl">
-            <li class="content-notice">Pier 92</li>
+            <li class="content-notice">Javits Center</li>
             <li>
               <address>
-              711 12th Avenue <br>
-              New York, NY 10019
-              </address>
-            </li>
-            <li class="content-notice">Pier 94</li>
-            <li>
-              <address>
-              755 12th Avenue <br>
-              New York, NY 10019
+              655 West 34th Street<br>
+              (34-39 Street @ 11 Avenue) <br>
+              NYC, 10001
               </address>
             </li>
           </ul>
           <ul class="in-bl">
             <li class="content-notice">Hours</li>
-            <li>Monday, January 5 / 9AM-6PM</li>
-            <li>Tuesday, January 6 / 9AM-6PM</li>
-            <li>Wednesday, January 7 / 9AM-5PM</li>
+            <li>Monday, April 27 / 9:00 AM - 6:00 PM</li>
+            <li>Tuesday, April 28 / 9:00 AM - 6:00 PM</li>
+            <li>Wednesday, April 29 / 9:00 AM - 5:00 PM </li>
           </ul>
-          <div id="map-canvas" style="width: 550px; height: 300px;" data-location="piers"></div>
+          <div id="map-canvas" style="width: 550px; height: 300px;" data-location="javits"></div>
         </div>
         <div class="exhib-content" id="order-form">
           <h3>Online Order Form</h3>
@@ -116,9 +110,9 @@
         </div>
         <div class="exhib-content" id="buyer-lead">
           <h3>Buyer Lead Retrieval Scanner</h3>
-          <p>We are pleased to offer participating vendors a customized Lead Retrieval Program for tracking attendees in your exhibit booth at Accessorie Circuit/Intermezzo Collections, Jan. 5-7, 2015, Pier 92/94, New York, NY.</p>
-          <p>The TSTracker&copy; Lead Retrieval Program is being offered at a special price for Accessorie Circuit/Intermezzo Collections Exhibitors: $150 per unit, per show.</p>
-          <p>For more information, please click here: <a href="../assets/pdf/acic/2015/acic-jan2015-scanner.pdf">Velocity Scanner</a>.</p>
+          <p>We are pleased to offer participating vendors a customized Lead Retrieval Program for tracking attendees in your exhibit booth at Accessorie Circuit/Intermezzo Collections, April. 27-29, 2015, Javits Center, New York, NY.</p>
+          <p>The TSTracker&copy; Lead Retrieval Program is being offered at a special price for Accessorie Circuit/Intermezzo Collections Exhibitors: $250 per unit, per show.</p>
+          <p>For more information, please click here: <a href="../assets/pdf/acic/2015/acic-apr2015-scanner.pdf">Velocity Scanner</a>.</p>
           <p>If interested, please out the form and fax it back to Velocity at 602.305.7208.</p>
         </div>
         <div class="exhib-content" id="guidebook">
@@ -126,53 +120,42 @@
           <div class="guide-exhib-l">
             <h4 class="content-notice">Move-In</h4>
             <ul>
-              <li>Saturday, January 3, 1PM-6PM</li>
-              <li>Sunday, January 4, 8AM-6PM</li>
+              <li>Saturday, April 25, 1:00 PM - 6:00 PM</li>
+              <li>Sunday, April 26, 8:00 AM - 6:00 PM</li>
             </ul>
-            <a href="../assets/pdf/gen/coming-soon.pdf" target="_blank">See move-in document</a>
+            <a href="../assets/pdf/acic/2015/acic-apr2015-move-in.pdf" target="_blank">See move-in document</a>
             <p>*Freight handling assistants are available on a first-come/serve basis until 5:00PM ONLY; and all vehicles that need assistance unloading or use of the loading dock must arrive by 4:30pm. No freight may be moved in after 5pm either hand-carry or otherwise.</p>
             <h4>Booth Package Deadlines</h4>
-            <p>Please note that if you do not complete and submit the <a href="http://acic.enkapps.com" target="_blank">Online Order Form</a> by the December 19 deadline, you will receive the frame-work, hard-walls and lighting ONLY. You will NOT receive Furnishings. Please be sure to complete the <a href="http://acic.enkapps.com" target="_blank">Online Order Form</a> by the December 19 deadline date to receive the furnishings you require</p>
+            <p>Please note that if you do not complete and submit the <a href="http://acic.enkapps.com" target="_blank">Online Order Form</a> by the April 10 deadline, you will receive the frame-work, hard-walls and lighting ONLY. You will NOT receive Furnishings. Please be sure to complete the <a href="http://acic.enkapps.com" target="_blank">Online Order Form</a> by the April 10 deadline date to receive the furnishings you require</p>
             <h4>Advance Deadlines</h4>
             <p>To take advantage of the advance order price structure, submit your forms by the deadline dates indicated on each form.</p>
           </div>
           <div class="guide-exhib-r">
-            <a class="content-notice" href="../assets/pdf/acic/2015/acic-jan2015-guidebook.pdf" target="_blank">Complete Exhibitor Manual</a>
+            <a class="content-notice" href="../assets/pdf/acic/2015/acic-apr2015-guidebook.pdf" target="_blank">Complete Exhibitor Manual</a>
             <ul>
-              <li><span>1</span>Important Notes</li>
-              <li><span>2</span>Custom Booths</li>
-              <li><span>3</span>Freight Delivery Form</li>
-              <li><span>4</span>Exhibition Schedule</li>
-              <li><span>5</span>Late Move-in Maps</li>
-              <li><span>6</span>Supplier Resource Directory</li>
-              <li><span>8</span>General Information</li>
-              <li><span>10</span>Booth Set-Up</li>
-              <li><span>12</span>Work Rules</li>
-              <li><span>13</span>Fire Department & Safety Regulations</li>
-              <li><span>14</span>Security Information</li>
-              <li><span>15</span>Shipping Addresses</li>
-              <li><span>16</span>Map of Unloading/Loading Areas</li>
-              <li><span>17</span>Shipping Information</li>
-              <li><span>18</span>Shipping to the Exhibition</li>
-              <li><span>19</span>Advance Shipping GES’ Warehouse</li>
-              <li><span>20</span>Shipping from the Exhibition</li>
-              <li><span>22</span>Transportation and Hotel</li>
-              <li><span>23</span>Contractual Regulations</li>
-              <li><span>25</span>GES Payment Policies</li>
-              <li><span>26</span>GES Terms & Conditions</li>
-              <li><span>28</span>Material Handling</li>
-              <li><span>29</span>GES Inbound/Outbound Shipping Order Form</li>
-              <li><span>31</span>Shipping Labels</li>
-              <li><span>32</span>Bill of Lading Samples</li>
-              <li><span>34</span>Exhibitor Appointed Contractor Notification</li>
-              <li><span>36</span>Booth Dimensions and Package Details</li>
-              <li><span>37</span>Online Order Form</li>
+              <li><span>A</span>Important Notes</li>
+              <li><span>B</span>Custom Booths</li>
+              <li><span>C</span>Timetable</li>
+              <li><span>D</span>Late Move-in Maps</li>
+              <li><span>E</span>Resource Directory</li>
+              <li><span>F</span>General Information</li>
+              <li><span>G</span>Booth Set-Up</li>
+              <li><span>H</span>Booth Dimensions and Package Details</li>
+              <li><span>I</span>Work Rules</li>
+              <li><span>J</span>Fire Department & Safety Regulations</li>
+              <li><span>K</span>Security Information</li>
+              <li><span>L</span>Shipping Information</li>
+              <li><span>M</span>Freight Form</li>
+              <li><span>N</span>Contractual Regulations</li>
+              <li><span>O</span>GES Payment Policies</li>
+              <li><span>P</span>Exhibitor Appointed Contractor Notification</li>
+              <li><span>Q</span>Online Ordering </li>
             </ul>
           </div>
         </div>
         <div class="exhib-content" id="furnishings">
           <h3>Booth Furnishings</h3>
-          <a href="../assets/pdf/acic/2015/acic-jan2015-booth-package.pdf" target="_blank">Download booth furnishings PDF here</a>
+          <a href="../assets/pdf/acic/2015/acic-apr2015-booth-package.pdf" target="_blank">Download booth furnishings PDF here</a>
         </div>
         <div class="exhib-content" id="badges">
           <h3>Exhibitor Badges</h3>
@@ -183,22 +166,41 @@
           <h3>Move In / Move Out</h3>
           <ul>
             <li class="content-notice">Move-In</li>
-            <li>Saturday, January 3, 1PM-6PM</li>
-            <li>Sunday, January 4, 8AM-6PM</li>
-            <li><a href="../assets/pdf/gen/coming-soon.pdf" target="_blank">See Move-In Document</a></li>
+            <li>Saturday, April 25, 1:00 PM - 6:00 PM</li>
+            <li>Sunday, April 26, 8:00 AM - 6:00 PM</li>
+            <li><a href="../assets/pdf/acic/2015/acic-apr2015-move-in.pdf" target="_blank">See Move-In Document</a></li>
           </ul>
           <ul>
             <li class="content-notice">Move-Out</li>
-            <li>Wednesday, January 7, 5PM-8PM</li>
-            <li><a href="../assets/pdf/acic/2015/acic-jan2015-move-out.pdf" target="_blank">See Move-Out Document</a></li>
+            <li>Wednesday, April 29, 5:00 PM - 8:00 PM</li>
+            <li><a href="../assets/pdf/acic/2015/acic-apr2015-move-out.pdf" target="_blank">See Move-Out Document</a></li>
           </ul>
         </div>
+        <div class="exhib-content" id="shipping">
+          <h3>Shipping</h3>
+          <p>You may ship your freight to the Exhibition in various ways:</p>
+          <ol>
+            <li>Advance to GES' Warehouse</li>
+            <li>Direct to Show site via the carrier of your choice</li>
+            <li>Direct to Show Site in your own vehicle  </li>
+          </ol>
+          <br>
+        
+          <h4 style="text-decoration: underline;">Shipping Deadlines</h4>
+          <ul>
+            <li><strong>Shipments to GES' Warehouse: </strong> March 30-April 21</li>
+            <li><strong>Shipments to Show Site: </strong> April 25 and 26, 1PM-4:30PM</li>
+            <li><small>*Please use the proper <strong><a href="../assets/pdf/acic/2015/acic-apr2015-shipping.pdf" style="display: inline-block;" target="_blank">SHIPPING LABELS</a></strong>, according to your choice of shipment.</small></li>
+          </ul>
+
+          
+        </div>
         <div class="exhib-content" id="floor-plan">
-          <h3>Floor Plans</h3>
+          <h3 >Floor Plans</h3>
           <p>To view and/or download a detailed floor plan, click on the desired venue or venue level from the image. Detailed floor plans are typically available 4-6 weeks prior to the Show opening.</p>
           <h4>Javits Center</h4>
-          <a class="map-image" href="../assets/pdf/acic/2015/acic_jan2015_exhibitormap.pdf">
-            <img src="../assets/img/acic/acic-floorplan-jan2014.png">
+          <a class="map-image" href="../assets/pdf/acic/2015/acic-apr2015_exhibitormap.pdf">
+            <img src="../assets/img/acic/3D_overview_aug.png">
           </a>
         </div>
         <div class="exhib-content contacts" id="contacts">
@@ -206,12 +208,15 @@
           <ul>
             <li class="content-notice">Accessorie Circuit Team</li>
             <li>Eleni Avrameas: <a href="mailto:eavrameas@enkshows.com">eavrameas@enkshows.com</a>, 212.951.6706</li>
+            <li>Sarinah Vaughn: <a href="mailto:svaughn@enkshows.com">svaughn@enkshows.com</a>, 212.951.6762</li>
             <li>Kelly Gorman:  <a href="mailto:kgorman@enkshows.com">kgorman@enkshows.com</a>, 212.951.6729</li>
-            <li>Angela Weber: <a href="mailto:aweber@enkshows.com">aweber@enkshows.com</a>, 212.951.6728</li>
+            
           </ul>
           <ul>
             <li class="content-notice">Intermezzo Collections Team</li>
             <li>Angela Gonzalez: <a href="mailto:agonzalez@enkshows.com">agonzalez@enkshows.com</a>, 212.951.6704</li>
+            <li>Lena Odabashian:  <a href="mailto:lodabashian@enkshows.com">lodabashian@enkshows.com</a>, 212.951.6795</li>
+            <li>Francine Rich: <a href="mailto:frich@magiconline.com">frich@magiconline.com</a>, 212.951.6699</li>
             <li>Jaclyn Luglio:  <a href="mailto:jluglio@enkshows.com">jluglio@enkshows.com</a>, 212.951.6715</li>
           </ul>
           <ul>
@@ -223,21 +228,20 @@
             <li class="content-notice">Show Site Contacts</li>
             <li><strong>ENK Exhibitor Hotline:</strong> 917.975.7572</li>
             <li><strong>GES Exhibitor Hotline:</strong> 201.708.8347</li>
-            <li><strong>Port Parties:</strong> 212.977.7414</li>
+            <li><strong>Javits Electric:</strong> 212.216.2090</li>
             <li><strong>ENK Buyer Hotline:</strong> 818.464.7130</li>
           </ul>
           <ul>
           <li class="content-notice">Customer Service / Ordering</li>
-            <li>ENK Operations: <a href="mailto:operations@enkshows.com">operations@enkshows.com</a>, 212.951.6759</li>
-            <li>Port Parties: 212.977.7414</li>
-            <li>GES Contacts:
+            <li><strong>ENK Operations:</strong> <a href="mailto:operations@enkshows.com">operations@enkshows.com</a>, 212.951.6759</li>
+            <li><strong>Javits Center:</strong> 877.452.8487</li>
+            <li><strong>GES Contacts:</strong>
               <li>800.801.0554</li>
               <li>201.375.9191</li>
           </ul>
         </div>
         <div class="exhib-content" id="marketing">
           <h3>Marketing Opportunities</h3>
-
           <h4>Digital Lookbook</h4>
           <p>Accessible on our website so that retailers will be able to preview your Holiday/ Resort and Pre-collection images. See preview for <a href="http://www.aclookbook.enkshows.com/">Accessories Circuit</a> and <a href="http://www.iclookbook.enkshows.com/">Intermezzo Collections</a>. </p>
 
@@ -259,9 +263,6 @@
 
           </p>
 
-
-
-
           <p class="content-notice">Please use your brand name in the file names. Note: Photo selection is at the sole discretion of ENK. </p>
             <ul>
               <li>If you have any questions please don't hesitate to contact:</li>
@@ -273,12 +274,11 @@
 
         <div class="exhib-content" id="hints">
           <h3>Helpful Hints</h3>
-          <a href="../assets/pdf/acic/2015/acic-jan2015-helpful-hints.pdf" target="_blank">Download helpful hints here</a>
+          <a href="../assets/pdf/acic/2015/acic-apr2015-helpful-hints.pdf" target="_blank">Download helpful hints here</a>
         </div>
         <div class="exhib-content" id="hotel-travel">
           <h3>Hotel + Travel</h3>
-          
-          <p>Enjoy and save on exclusive hotel discounts. <a href="https://compass.onpeak.com/e/71acj15">Book with ENK Shows</a> and receive hotel discounts during your stay for our shows. To begin and save on hotels, <a href="https://compass.onpeak.com/e/71acj15">book now</a>.
+          <p>Enjoy and save on exclusive hotel discounts. <a href="https://compass.onpeak.com/e/73ACI15/0">Book with ENK Shows</a> and receive hotel discounts during your stay for our shows. To begin and save on hotels, <a href="https://compass.onpeak.com/e/73ACI15/0">book now</a>.
           </p>
           <p>For any questions or concerns, call 800.789.9887 (from the US, Canada & Caribbean) or 212.779.7666.</p>
         </div>
@@ -296,8 +296,8 @@
         </div> -->
         <div class="exhib-content" id="parking">
           <h3>Parking</h3>
-          <p><span class="content-notice">The Pier complex will be busy with cruise ship passengers</span>, which will limit on premises parking. If you are driving to the Piers, you may wish to park in one of the nearby lots. Note: parking costs vary; you should ask the cost before parking. </p>
-          <h3>Pier Parking</h3>
+          <p><strong>The Javits complex will be busy with cruise ship passengers</strong>, which will limit on premises parking. If you are driving to the Javits Center, you may wish to park in one of the nearby lots. Note: parking costs vary; you should ask the cost before parking.</p>
+          <h3>Javits Parking</h3>
           <ul>
             <li class="content-notice">Rapid Park</li>
             <li>West 55th Street between 9th & 10th Avenues, 7 days/wk, 6am-1am, Cash/Credit Card (no trucks or SUV's)</li>
@@ -331,11 +331,7 @@
             <li><a href="http://www.enkshows.com/" target="blank">ENK Home Page</a></li>
           </ul>
         </div>
-        <div class="exhib-content" id="wifi">
-          <h3>Wireless Internet</h3>
-          <p>Pier 94/92 provides Internet accessibility through the company Transbeam. You can check your e-mail, visit other websites and obtain help in navigating around the venue for a small fee (hourly, daily and 3 day plans are available, credit cards only).</p>
-          <p>The service can accommodate one computer per connection and can only be subscribed to on site from the computer that will be accessing the Internet. For more information regarding pricing and accessing internet on show site, please view the following PDF: <a href="http://enkexhibitors.com/info/assets/pdf/gen/piers-wifi.pdf" target="_blank">Pier 92/94 Wireless Internet</a></p>
-        </div>
+        
         <div class="exhib-content" id="faq">
           <h3>Common Questions</h3>
           <a class="faq-question" href="#">General Information</a>
@@ -387,7 +383,7 @@
             <!-- Question 4 -->
             <h4></h4>
             <p>How can I see photos of the furniture offered?
-            <a href="../assets/pdf/acic/2015/acic-jan2015-booth-package.pdf" target="_blank">Review Booth Furnishings Here</a></p>
+            <a href="../assets/pdf/acic/2015/acic-apr2015-booth-package.pdf" target="_blank">Review Booth Furnishings Here</a></p>
           </div>
           <a class="faq-question" href="">Lighting / Electricity</a>
           <div class="faq-content">
@@ -462,33 +458,23 @@
                 Clifton, NJ 07011<br/>
               </address>
             </p>
-            <p class="alert">Must arrive on or before December 29, 2014</p>
+            <p class="alert">Must arrive on or before April 21, 2015 </p>
             <p>Shipments received at GES' warehouse after the deadline may be accepted; however, there will be a 25% surcharge to the existing
             freight handling fees if the shipment is received after the deadline.</p>
             <!-- Question 4 -->
             <h4>What is the direct to show shipping address?</h4>
             <p>
               <address>
-                <h4>Pier 92</h4>
+                <h4>Javits Center</h4>
                 Insert your Exhibiting Collection Name<br/>
                 Insert Show &amp; Booth #<br/>
-                c/o GES Pier 92/94<br/>
-                711 12th Avenue<br/>
-                New York, NY 10019<br/>
-              </address>
-            </p>
-            <p>
-              <address>
-                <h4>Pier 94</h4>
-                Insert your Exhibiting Collection Name<br/>
-                Insert Show &amp; Booth #<br/>
-                c/o GES Pier 92/94<br/>
-                755 12th Avenue<br/>
-                New York, NY 10019<br/>
+                c/o Javits Center<br/>
+                655 West 34th Street<br/>
+                New York, NY 10001-1188<br/>
               </address>
             </p>
             <p>Shipment will only be accepted during official move-in days/times</p>
-            <p class="alert">January 3, 8:00AM-4:30PM</p>
+            <p class="alert">April 25, 1:00PM-4:30PM (UPS, DHL, FedEx only) no truck or messenger deliveries<br>April 26, 8:00 AM - 4:30 PM</p>
             <!-- Question 5 -->
             <h4>Can I ship directly to show site prior to the move-in date?</h4>
             <p>No, GES will begin receiving show site shipments during exhibitor move-in days only.  Shipments delivered prior to official move-in days will be refused.</p>
@@ -531,7 +517,8 @@
         </div>
         <div class="exhib-content" id="booth-diagrams">
           <h3>Booth Diagrams</h3>
-          <a class="download" href="../assets/pdf/acic/2015/acic-jan2015-booth-details.pdf" target="_blank">Download booth information here</a>
+          <a class="download" href="../assets/pdf/acic/2015/acic-apr2015-booth-details.pdf" target="_blank">Download booth information here</a>
+          <p>Any booth sizes not available please contact ENK Operations: 212.951.6759 or <a href="mailto:operations@enkshows.com">operations@enkshows.com</a></p>
           <div class="booth-display">
             <h4>6' Deep Booths</h4>
             <select name="booth-diagrams" class="booth-select" id="booth-select">
@@ -569,37 +556,12 @@
             </select>
             <div class="image-display"></div>
           </div>
-          <div class="booth-display">
-            <h4>13' Deep Booths</h4>
-            <select name="booth-diagrams" class="booth-select" id="booth-select">
-              <option value="">-- Select Booth Size</option>
-              <option value="13X13">13X13</option>
-              <option value="13X16">13X16</option>
-              <option value="13X20">13X20</option>
-            </select>
-            <div class="image-display"></div>
-          </div>
-          <div class="booth-display">
-            <h4>20' Deep Booths</h4>
-            <select name="booth-diagrams" class="booth-select" id="booth-select">
-              <option value="">-- Select Booth Size</option>
-              <option value="20X13">20X13</option>
-              <option value="20X15">20X15</option>
-              <option value="20X16">20X16</option>
-              <option value="20X20">20X20</option>
-              <option value="20X23">20X23</option>
-              <option value="20X26">20X26</option>
-              <option value="20X30">20X30</option>
-              <option value="20X40">20X40</option>
-              <option value="20X50">20X50</option>
-            </select>
-            <div class="image-display"></div>
-          </div>
         </div>
       </div>
     </div>
   </div>
   <div class="footer">
+    <img src="../assets/img/UBM_Footer.png" alt="">
     <ul class="address">
       <li><a href="#">ENK International</a></li>
       <li>

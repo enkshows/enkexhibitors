@@ -47,23 +47,22 @@
         <p>This page is intended for EXHIBITORS only. To begin, select a show from the list below and more information will appear. If you are looking for the regular ENK home page, please visit <a href="http://www.enkshows.com">www.enkshows.com</a></p>
       </header>
       <div class="main--content">
+
         <a class="btn btn-exhib" href="acic/index1.aspx">
           <h2>Circuit.Intermezzo</h2>
-          <p>January 5.6.7 @ Piers 92/94.NYC</p>
-        </a>
-        <a class="btn btn-exhib" href="childrensclub/index1.aspx">
-          <h2>Children's Club</h2>
-          <p>January 11.12.13 @ Pier 94.NYC</p>
+          <p>April 27.28.29 @ Javits Center.NYC</p>
         </a>
 
-        <!-- <a class="btn btn-exhib" href="enkvegas/index.html">
-          <h2>ENKVegas</h2>
-          <p>February 17.18.19 @ Mandalay Bay.LV</p>
-        </a> -->
+        <a class="btn btn-exhib" href="childrensclub/index1.aspx">
+          <h2>Children's Club</h2>
+          <p>April 27.28.29 @ Javits Center.NYC</p>
+        </a>
+        
       </div>
     </div>
   </div>
   <div class="footer">
+    <img src="../assets/img/UBM_Footer.png" alt="">
     <ul class="address">
       <li><a href="#">ENK International</a></li>
       <li>

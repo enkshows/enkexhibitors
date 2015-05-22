@@ -5,6 +5,10 @@
   color: $enk-white;
   background: url(../img/stripe-dark.png) repeat;
   clear:both;
+  img {
+    width: 130px;
+    vertical-align: top;
+  }
   a {
     color: $enk-red;
     text-decoration: none;
