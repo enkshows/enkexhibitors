@@ -517,7 +517,7 @@
         </div>
         <div class="exhib-content" id="booth-diagrams">
           <h3>Booth Diagrams</h3>
-          <a class="download" href="../assets/pdf/acic/2015/acic-apr2015-booth-details.pdf" target="_blank">Download booth information here</a>
+          <a class="download" href="../assets/pdf/acic/2015/acic-aug2015-booth-detials.pdf" target="_blank">Download booth information here</a>
           <p>Any booth sizes not available please contact ENK Operations: 212.951.6759 or <a href="mailto:operations@enkshows.com">operations@enkshows.com</a></p>
           <div class="booth-display">
             <h4>6' Deep Booths</h4>

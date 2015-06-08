@@ -1,0 +1,291 @@
+@charset "utf-8";
+
+
+input.text-input				{ margin:0px; padding:5px; height:24px; position: relative;  color:#333; }
+
+input.button					{ /* position:absolute; top:125px; left:120px; */ padding:0px 0px;
+								border:2px solid #fff; margin:20px 0px 0px 0px; color:#3D7169; 
+								font-family:Verdana, Arial, Helvetica, sans-serif;
+								background:#CCC; }
+
+select 							{ font-size:11px; margin: 0; height:24px; vertical-align: baseline; *vertical-align: middle;}
+
+option							{margin:2px 0 5px 20px}
+
+button, input, textarea 		{ font-size:11px; margin: 0; height:24px; padding:5px;  }
+
+button, input 					{ line-height: normal; }
+
+.field-error					{color: #ee1c24 !important;}
+								
+/*
+.error							{color: #ee1c24; font-family:'GBold', Arial, Helvetica, sans-serif; font-weight: normal;}
+.pleaseWait						{color:#000;}
+.success						{color:#000;}
+*/
+
+#message						{ font-family:'GBook', Arial, Helvetica, sans-serif;width:180px;margin:60px 0 0 100px; }
+
+#message h2						{ font-family:'GBold', Arial, Helvetica, sans-serif;font-size:150%;color:white; }
+
+#message p						{ font-family:'GBook', Arial, Helvetica, sans-serif;color:white;font-weight:bold;margin:6px 0px; }
+
+#checkmark						{ font-family:'GBook', Arial, Helvetica, sans-serif; }
+
+
+
+#press_form{float:left;}
+
+.multipleChoice{font-size: 11px; text-transform:lowercase;}
+
+/* Form element styles */
+
+
+#applyForm{ 
+			color:#cccccc; 
+			font-size:10px;
+			text-transform:capitalize;
+			margin-left:0px;
+			font-family:'GBook', Arial, Helvetica, sans-serif;
+			font-weight: normal; 
+			position:relative;
+}
+
+#pressForm{
+			color:#cccccc; 
+			font-size:10px;
+			text-transform:capitalize;
+			margin-left:0px;
+			font-family:'GBook', Arial, Helvetica, sans-serif;
+			font-weight: normal; 
+			position:relative;
+}
+
+#contactForm{ 
+			color:#cccccc; 
+			font-size:10px;
+			text-transform:capitalize;
+			margin-left:0px;
+			font-family:'GBook', Arial, Helvetica, sans-serif;
+			font-weight: normal; 
+			position:relative;
+}
+
+#showApplyForm{
+			color:#cccccc; 
+			font-size:10px;
+			text-transform: uppercase;
+			margin-left:0px;
+			font-family:'GBook', Arial, Helvetica, sans-serif;
+			font-weight: normal; 
+			position:relative;
+	}
+	
+#showApplyForm-2{
+			color:#cccccc; 
+			font-size:10px;
+			text-transform: uppercase;
+			margin-left:0px;
+			font-family:'GBook', Arial, Helvetica, sans-serif;
+			font-weight: normal; 
+			position:relative;
+	}
+		
+	
+#visitorForm{
+			color:#cccccc; 
+			font-size:10px;
+			text-transform: uppercase;
+			margin-left:0px;
+			font-family:'GBook', Arial, Helvetica, sans-serif;
+			font-weight: normal; 
+			position:relative;
+	}
+
+
+
+/* Submit form messages */
+
+.form_message { font-family:'GBook', Arial, Helvetica, sans-serif; font-size:13px; color:#000; }
+.form_message.error	{ font-family:'GBold', Arial, Helvetica, sans-serif; font-weight: normal; color: #ee1c24;}
+.form_message.pleaseWait { color: #000;}
+.form_message.success { color: #000;}
+
+/*
+#applyForm_message_box{float:left; font-family:'GBook', Arial, Helvetica, sans-serif; font-size:13px; color:#000;}
+	#applyForm_message{}
+	
+#pressForm_message_box{float:left; font-family:'GBook', Arial, Helvetica, sans-serif;font-size:13px;color:#000;}
+	#pressForm_message{}
+
+#contactForm_message_box{float:left; font-family:'GBook', Arial, Helvetica, sans-serif;font-size:13px;color:#000;}
+	#contactForm_message{}
+	
+#showApply_message_box{float:left; font-family:'GBook', Arial, Helvetica, sans-serif;font-size:13px;color:#000;}
+	#showApplyForm_message{}
+	
+#showApplyForm-2_message_box{float:left; font-family:'GBook', Arial, Helvetica, sans-serif;font-size:13px;color:#000;}
+	#showApplyForm-2_message_box{}	
+	
+#visitorForm_message_box{float:left; font-family:'GBook', Arial, Helvetica, sans-serif;font-size:13px;color:#000;}
+	#visitorForm_message{}	
+*/	
+	
+	/* Individual Field Styles */
+
+	/* General */
+	.formcol-l{float:left; width:380px;}
+	.formcol-r{float:left; width:370px;}
+	.form-bottom{float:left; width:760px;}
+	
+	
+	.verify-label{font-family:'GBold', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform: uppercase; display:block; position:absolute; right:280px; top:312px; height:10px; width:100px;}
+	.verify-field{display:block; position:absolute; right:150px; top:308px; height:14px; width:110px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+	
+		.verify-label-contact{font-family:'GBold', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform: uppercase; display:block; position:absolute; right:280px; top:163px; height:10px; width:100px;}
+		.verify-field-contact{display:block; position:absolute; right:150px; top:159px; height:14px; width:110px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+		
+		.verify-label-press{font-family:'GBold', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform: uppercase; display:block; position:absolute; right:280px; top:151px; height:10px; width:100px;}
+		.verify-field-press{display:block; position:absolute; right:150px; top:146px; height:14px; width:110px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+
+	
+		/* Exhibitor Form */
+			.cityStateZipHolder{position:relative; height:24px;}
+			.contactCompanyHolder{position:relative; height:24px;}
+			.boxHolder{margin-top:20px; float: left; position:relative;}
+		
+				select.showName{display:block;  width:360px; height:24px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 4px 0 0 0; padding: 5px 0 5px 20px; }
+	
+				input.firstName{display:block;  width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+			
+				input.lastName{display:block;  width:360px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+			
+				input.fullAddress{display:block;  width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+
+				input.city{display:block; position:absolute; left:0; top:0; height:14px; width:140px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+	
+				select.state{display:block; position:absolute; left:150px; top:0;  width:100px; height:24px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 20px;padding: 5px 0 5px 20px; }
+				
+				input.postal{display:block; position:absolute; left:280px; top:0; height:14px; width:80px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+				
+				input.contactPhone{display:block; position:absolute; left:0; top:0; height:14px; width:165px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+				
+				input.companyName{display:block; position:absolute; left:195px; top:0; height:14px; width:165px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+				
+				input.showRoom{width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+				input.website{width:360px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+						
+				input.contactEmail{display:block;  width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+			
+				input.referralSource{width:740px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; float:left; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+	
+				fieldset.product{font-family:'GBook', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform: uppercase; height:70px;}
+				fieldset.gender{font-family:'GBook', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform: uppercase; height:70px; }
+					.checkboxHolder{font-family:'GBook', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform:capitalize; height:12px;  float:left; position:relative; display:block; text-align:left; margin:10px 20px 0 0; }
+						.checkboxText{font-family:'GBook', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform:capitalize;  text-align:left; margin:0 0 0 5px; }
+						.checkbox{font-family:'GBook', Arial, Helvetica, sans-serif; color:#343434; font-size:12px; border: hidden; text-transform:capitalize; height:12px;  float:left; position:relative; display:block; text-align:left; margin:0 0px 0 0; }
+		
+		
+		
+		/* Visitor Form */	
+			.visitorGuestsHolder{position:relative; height:24px; margin: 4px 0 14px 0;}
+			
+				select.visitorType {display:block; position:absolute; left:0; top:0; width:270px; height:24px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0px; padding: 5px 0 5px 20px; }
+				input.numberGuests {display:block; position:absolute; left:280px; top:0; height:14px; width:80px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px; margin: 0 0 0 0px;}
+				
+				
+				
+		/* Contact Form */
+			.contactCompanyPhone {float:left; position:relative; width:380px; }
+				
+				input.fullName{width:350px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+				
+				input.contactCompanyName{display:block; left:0px; width:160px; position:absolute; height:14px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px; }	
+				
+				input.contactPhone2{display:block; left:190px; top:0px; width:160px; position:absolute; height:14px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px; }
+	
+				select.inquiry {display:block;  width:370px; height:24px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 10px; padding: 5px 0 5px 20px; }
+				
+				input.contactEmail2{display:block;  width:350px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 10px; padding: 5px 0 5px 20px;}
+	
+				textarea.comments{width:740px; height:50px; display:block; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 0 20px; margin: 10px 0 0 0; overflow:hidden;}
+
+				
+		/* Press Form */
+	
+				input.pressCompanyName{display:block; left:0px; width:160px; position:absolute; height:14px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px; }
+				input.pressContactPhone{display:block; left:190px; top:38px; width:150px; position:absolute; height:14px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px; }
+				input.pressContactEmail{display:block;  width:360px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+				textarea.pressComments{width:740px; height:50px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 0 20px; margin: 14px 0 0 0; overflow:hidden;}
+
+
+	/*.captcha { float: right; margin: 0px 10px 0 0; color: #000; text-align: center; font-size: 10px; text-transform: uppercase; font-family: 'GBook', Arial, Helvetica, sans-serif; font-weight: normal; }
+	*/
+	.captcha { float: right; margin: -21px 92px 10px 0; color: #343434; font-size: 12px; text-transform: uppercase; font-family: 'GBook', Arial, Helvetica, sans-serif; font-weight: normal; }
+	.captcha tr { background: transparent !important; }
+	.captcha input{display:block;  width:75px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 10px; padding: 5px 0 5px 20px;}
+
+
+
+	/* Keeping the old input ID styles so the forms will look ok on the pages on which this is still not fixed */
+	#showName{display:block;  width:360px; height:24px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px; }
+	
+	#visitorType{display:block;  width:380px; height:24px; overflow:hidden; text-transform:uppercase; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; margin: 4px 0 0 0; padding: 5px 0 5px 20px;}
+	
+	#firstName{display:block;  width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+	#lastName{display:block;  width:360px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+		
+		
+	#contactEmail{display:block;  width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+	
+	#contactPhone{
+		display:block; position:absolute; left:0; top:0; height:14px; width:150px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+	
+	#contactFax{display:block; position:absolute; right:-10px; top:0;   height:14px; width:150px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase;  padding: 5px 0 5px 20px;}
+		
+
+	
+	#companyName{width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+	#title{width:360px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+	#showRoom{width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+	#website{width:360px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+		
+	
+	#fullName{width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+	#subject{width:340px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 5px 0 5px 20px;}
+	
+	
+	#referralSource{width:740px; height:14px; overflow:hidden; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 5px 20px;}
+	
+	#products{width:740px; height:50px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 0 20px; overflow:hidden;}
+	
+	#comments{width:740px; height:50px; font-family:'GBook', Arial, Helvetica, sans-serif; background:#343434; color:#cccccc; border: hidden; text-transform: uppercase; padding: 5px 0 0 20px; overflow:hidden;}
+
+	
+	#pressForm_button{float: right; width:100px; height:24px; font-family:'GBook', Arial, Helvetica, sans-serif; background: url(../img/stripe_bg.gif); color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 0 0 0 0px;}
+		#pressForm_button:hover {background: #000;color:#ee1c24;}
+	
+	
+	#applyForm_button{float: right; width:100px; height:24px; font-family:'GBook', Arial, Helvetica, sans-serif; background: url(../img/stripe_bg.gif); color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 0 0 0 0px;}
+		#applyForm_button:hover{background: #000;color:#ee1c24;}
+		
+	#showApplyForm_button{float: right; width:100px; height:24px; font-family:'GBook', Arial, Helvetica, sans-serif; background: url(../img/stripe_bg.gif); color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 0 0 0 0px;}
+		#showApplyForm_button:hover{background: #000;color:#ee1c24;}		
+	
+	#showApplyForm-2_button{float: right; width:100px; height:24px; font-family:'GBook', Arial, Helvetica, sans-serif; background: url(../img/stripe_bg.gif); color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 0 0 0 0px;}
+		#showApplyForm-2_button:hover{background: #000;color:#ee1c24;}		
+	
+		
+	#contactForm_button{float: right; width:100px; height:24px; font-family:'GBook', Arial, Helvetica, sans-serif; background: url(../img/stripe_bg.gif); color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 0 0 0 0px;}
+		#contactForm_button:hover{background: #000;color:#ee1c24;}
+		
+	#visitorForm_button{float: right; width:100px; height:24px; font-family:'GBook', Arial, Helvetica, sans-serif; background: url(../img/stripe_bg.gif); color:#cccccc; border: hidden; text-transform: uppercase; margin: 0 0 0 0; padding: 0 0 0 0px;}
+		#visitorForm_button:hover{background: #000; color:#ee1c24;}	
+		

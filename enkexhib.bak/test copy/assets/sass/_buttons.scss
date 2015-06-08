@@ -1,0 +1,14 @@
+.btn {
+  display: block;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.btn-exhib {
+  background: $nav-background-color;
+  background: url(../img/stripe-dark.png) repeat;
+  text-decoration: none;
+  &:hover {background: $enk-black;}
+  h2 {display: inline-block; color: $enk-red; margin: 0 5px 0; font-size: 20px;}
+  p {display: inline-block; color: $enk-white; margin: 0 5px 0; font-size: 20px;}
+}
+  
